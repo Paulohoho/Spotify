@@ -1,0 +1,5892 @@
+{
+  "Guilty Pleasures": [
+    {
+      "song_name": "Sweater Weather",
+      "artist": "The Neighbourhood"
+    },
+    {
+      "song_name": "In the End",
+      "artist": "Linkin Park"
+    },
+    {
+      "song_name": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler"
+    },
+    {
+      "song_name": "Copacabana (At the Copa)",
+      "artist": "Barry Manilow"
+    },
+    {
+      "song_name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "50 Ways to Say Goodbye",
+      "artist": "Train"
+    },
+    {
+      "song_name": "Unwritten",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "What Makes You Beautiful",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "It's All Coming Back to Me Now",
+      "artist": "C\u00e9line Dion"
+    },
+    {
+      "song_name": "Take on Me",
+      "artist": "a-ha"
+    },
+    {
+      "song_name": "Shut Up and Dance",
+      "artist": "WALK THE MOON"
+    },
+    {
+      "song_name": "Africa",
+      "artist": "TOTO"
+    },
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "How You Remind Me",
+      "artist": "Nickelback"
+    },
+    {
+      "song_name": "TiK ToK",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "Dancing Queen",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "Rude",
+      "artist": "MAGIC!"
+    },
+    {
+      "song_name": "Timber",
+      "artist": "Pitbull, Kesha"
+    },
+    {
+      "song_name": "Hey Ya!",
+      "artist": "Outkast"
+    },
+    {
+      "song_name": "Baby",
+      "artist": "Justin Bieber, Ludacris"
+    },
+    {
+      "song_name": "I Was Made For Lovin' You",
+      "artist": "KISS"
+    },
+    {
+      "song_name": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper"
+    },
+    {
+      "song_name": "How to Save a Life",
+      "artist": "The Fray"
+    },
+    {
+      "song_name": "Low (feat. T-Pain)",
+      "artist": "Flo Rida, T-Pain"
+    },
+    {
+      "song_name": "Drops of Jupiter (Tell Me)",
+      "artist": "Train"
+    },
+    {
+      "song_name": "Wannabe",
+      "artist": "Spice Girls"
+    },
+    {
+      "song_name": "Love You Like A Love Song",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "Oops!...I Did It Again",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "It's My Life",
+      "artist": "Bon Jovi"
+    },
+    {
+      "song_name": "9 to 5",
+      "artist": "Dolly Parton"
+    },
+    {
+      "song_name": "Believe",
+      "artist": "Cher"
+    },
+    {
+      "song_name": "Beautiful Girls",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "All Star",
+      "artist": "Smash Mouth"
+    },
+    {
+      "song_name": "Sk8er Boi",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Eye of the Tiger",
+      "artist": "Survivor"
+    },
+    {
+      "song_name": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & the Blackhearts"
+    },
+    {
+      "song_name": "Can't Hold Us (feat. Ray Dalton)",
+      "artist": "Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton"
+    },
+    {
+      "song_name": "Teenage Dirtbag",
+      "artist": "Wheatus"
+    },
+    {
+      "song_name": "Kiss Me Thru The Phone",
+      "artist": "Soulja Boy, Sammie"
+    },
+    {
+      "song_name": "Walking On Sunshine",
+      "artist": "Katrina & The Waves"
+    },
+    {
+      "song_name": "Jump - 2015 Remaster",
+      "artist": "Van Halen"
+    },
+    {
+      "song_name": "Fireflies",
+      "artist": "Owl City"
+    },
+    {
+      "song_name": "Replay",
+      "artist": "Iyaz"
+    },
+    {
+      "song_name": "Pretty Fly (For A White Guy)",
+      "artist": "The Offspring"
+    },
+    {
+      "song_name": "A Thousand Miles",
+      "artist": "Vanessa Carlton"
+    },
+    {
+      "song_name": "Flashdance...What a Feeling - Radio Edit",
+      "artist": "Irene Cara"
+    },
+    {
+      "song_name": "Mambo No. 5 (a Little Bit of...)",
+      "artist": "Lou Bega"
+    },
+    {
+      "song_name": "Everybody (Backstreet's Back) - Radio Edit",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj"
+    },
+    {
+      "song_name": "The Final Countdown",
+      "artist": "Europe"
+    },
+    {
+      "song_name": "I'm So Excited",
+      "artist": "The Pointer Sisters"
+    },
+    {
+      "song_name": "Since U Been Gone",
+      "artist": "Kelly Clarkson"
+    },
+    {
+      "song_name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "My Own Worst Enemy",
+      "artist": "Lit"
+    },
+    {
+      "song_name": "Crank That (Soulja Boy)",
+      "artist": "Soulja Boy"
+    },
+    {
+      "song_name": "Hot In Herre",
+      "artist": "Nelly"
+    },
+    {
+      "song_name": "Return of the Mack",
+      "artist": "Mark Morrison"
+    },
+    {
+      "song_name": "You Get What You Give",
+      "artist": "New Radicals"
+    },
+    {
+      "song_name": "You're Beautiful",
+      "artist": "James Blunt"
+    },
+    {
+      "song_name": "Karma Chameleon - Remastered 2002",
+      "artist": "Culture Club"
+    },
+    {
+      "song_name": "Butterfly",
+      "artist": "Crazy Town"
+    },
+    {
+      "song_name": "Miami",
+      "artist": "Will Smith"
+    },
+    {
+      "song_name": "Smooth Criminal",
+      "artist": "Alien Ant Farm"
+    },
+    {
+      "song_name": "Semi-Charmed Life",
+      "artist": "Third Eye Blind"
+    },
+    {
+      "song_name": "September",
+      "artist": "Earth, Wind & Fire"
+    },
+    {
+      "song_name": "Livin' la Vida Loca",
+      "artist": "Ricky Martin"
+    },
+    {
+      "song_name": "She Drives Me Crazy",
+      "artist": "Fine Young Cannibals"
+    },
+    {
+      "song_name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "artist": "C\u00e9line Dion"
+    },
+    {
+      "song_name": "Escape (The Pina Colada Song)",
+      "artist": "Rupert Holmes"
+    },
+    {
+      "song_name": "In Da Club",
+      "artist": "50 Cent"
+    },
+    {
+      "song_name": "I Have Nothing",
+      "artist": "Whitney Houston"
+    },
+    {
+      "song_name": "Get Low",
+      "artist": "Lil Jon & The East Side Boyz, Ying Yang Twins"
+    },
+    {
+      "song_name": "What's Luv? (feat. Ja-Rule & Ashanti)",
+      "artist": "Fat Joe, Ja Rule, Ashanti"
+    },
+    {
+      "song_name": "Don't Stop Believin'",
+      "artist": "Journey"
+    },
+    {
+      "song_name": "Fat Lip",
+      "artist": "Sum 41"
+    },
+    {
+      "song_name": "Stacy's Mom",
+      "artist": "Fountains Of Wayne"
+    },
+    {
+      "song_name": "It's Gonna Be Me",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Worth It (feat. Kid Ink)",
+      "artist": "Fifth Harmony, Kid Ink"
+    },
+    {
+      "song_name": "Any Way You Want It",
+      "artist": "Journey"
+    },
+    {
+      "song_name": "All About That Bass",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "song_name": "The Sign",
+      "artist": "Ace of Base"
+    },
+    {
+      "song_name": "Banana Boat (Day-O)",
+      "artist": "Harry Belafonte"
+    },
+    {
+      "song_name": "U Can't Touch This",
+      "artist": "MC Hammer"
+    },
+    {
+      "song_name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "artist": "Olivia Newton-John"
+    },
+    {
+      "song_name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "artist": "Aerosmith"
+    },
+    {
+      "song_name": "Your Love Is My Drug",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "The Bad Touch",
+      "artist": "Bloodhound Gang"
+    },
+    {
+      "song_name": "All Summer Long",
+      "artist": "Kid Rock"
+    },
+    {
+      "song_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "artist": "Maroon 5, Christina Aguilera"
+    },
+    {
+      "song_name": "Geronimo",
+      "artist": "Sheppard"
+    },
+    {
+      "song_name": "Ice Ice Baby",
+      "artist": "Vanilla Ice"
+    },
+    {
+      "song_name": "Every Morning",
+      "artist": "Sugar Ray"
+    },
+    {
+      "song_name": "The Rhythm of the Night",
+      "artist": "Corona"
+    },
+    {
+      "song_name": "She's so High",
+      "artist": "Tal Bachman"
+    },
+    {
+      "song_name": "Your Body Is a Wonderland",
+      "artist": "John Mayer"
+    },
+    {
+      "song_name": "I Believe in a Thing Called Love",
+      "artist": "The Darkness"
+    },
+    {
+      "song_name": "My Band",
+      "artist": "D12"
+    },
+    {
+      "song_name": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith"
+    }
+  ],
+  "GUILTY PLEASURES!!!\ud83d\udc4c\ud83c\udffc\ud83d\udd25\ud83d\udca5\ud83d\udca5": [
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Hit Me With Your Best Shot",
+      "artist": "Pat Benatar"
+    },
+    {
+      "song_name": "I Want It That Way",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Wannabe",
+      "artist": "Spice Girls"
+    },
+    {
+      "song_name": "Stop",
+      "artist": "Spice Girls"
+    },
+    {
+      "song_name": "The Tide Is High - Radio Mix",
+      "artist": "Atomic Kitten"
+    },
+    {
+      "song_name": "That Don't Impress Me Much - International Mix",
+      "artist": "Shania Twain"
+    },
+    {
+      "song_name": "MMMBop",
+      "artist": "Hanson"
+    },
+    {
+      "song_name": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys"
+    },
+    {
+      "song_name": "No Scrubs",
+      "artist": "TLC"
+    },
+    {
+      "song_name": "Waterfalls",
+      "artist": "TLC"
+    },
+    {
+      "song_name": "How Will I Know",
+      "artist": "Whitney Houston"
+    },
+    {
+      "song_name": "We Are Family - 1995 Remaster",
+      "artist": "Sister Sledge"
+    },
+    {
+      "song_name": "I'm So Excited",
+      "artist": "The Pointer Sisters"
+    },
+    {
+      "song_name": "Karma Chameleon - Remastered 2002",
+      "artist": "Culture Club"
+    },
+    {
+      "song_name": "Down Under",
+      "artist": "Men At Work"
+    },
+    {
+      "song_name": "Rosanna",
+      "artist": "TOTO"
+    },
+    {
+      "song_name": "The Power Of Love",
+      "artist": "Huey Lewis & The News"
+    },
+    {
+      "song_name": "A Little Respect - 2009 - Remaster",
+      "artist": "Erasure"
+    },
+    {
+      "song_name": "Relax",
+      "artist": "Frankie Goes To Hollywood"
+    },
+    {
+      "song_name": "Don't Go",
+      "artist": "Yazoo"
+    },
+    {
+      "song_name": "Smalltown Boy",
+      "artist": "Bronski Beat"
+    },
+    {
+      "song_name": "West End Girls - 2018 Remaster",
+      "artist": "Pet Shop Boys"
+    },
+    {
+      "song_name": "It's a Sin - 2018 Remaster",
+      "artist": "Pet Shop Boys"
+    },
+    {
+      "song_name": "Never Can Say Goodbye",
+      "artist": "The Communards"
+    },
+    {
+      "song_name": "Don't Leave Me This Way (with Sarah Jane Morris)",
+      "artist": "The Communards, Sarah Jane Morris"
+    },
+    {
+      "song_name": "That's the Way (I Like It) - 2004 Remaster",
+      "artist": "KC & The Sunshine Band"
+    },
+    {
+      "song_name": "Upside Down",
+      "artist": "Diana Ross"
+    },
+    {
+      "song_name": "Bad Girls",
+      "artist": "Donna Summer"
+    },
+    {
+      "song_name": "The Way You Make Me Feel - 2012 Remaster",
+      "artist": "Michael Jackson"
+    },
+    {
+      "song_name": "Say My Name",
+      "artist": "Destiny's Child"
+    },
+    {
+      "song_name": "Bootylicious",
+      "artist": "Destiny's Child"
+    },
+    {
+      "song_name": "Bring It All Back",
+      "artist": "S Club"
+    },
+    {
+      "song_name": "S Club Party",
+      "artist": "S Club"
+    },
+    {
+      "song_name": "Don't Stop Movin'",
+      "artist": "S Club"
+    },
+    {
+      "song_name": "Sound Of The Underground",
+      "artist": "Girls Aloud"
+    },
+    {
+      "song_name": "Big Girl (You Are Beautiful)",
+      "artist": "MIKA"
+    },
+    {
+      "song_name": "The Sweet Escape",
+      "artist": "Gwen Stefani, Akon"
+    },
+    {
+      "song_name": "Glamorous",
+      "artist": "Fergie, Ludacris"
+    },
+    {
+      "song_name": "Push The Button",
+      "artist": "Sugababes"
+    },
+    {
+      "song_name": "Whenever, Wherever",
+      "artist": "Shakira"
+    },
+    {
+      "song_name": "Like a Prayer",
+      "artist": "Madonna"
+    },
+    {
+      "song_name": "Torn",
+      "artist": "Natalie Imbruglia"
+    },
+    {
+      "song_name": "Don't Speak",
+      "artist": "No Doubt"
+    },
+    {
+      "song_name": "Lovefool",
+      "artist": "The Cardigans"
+    },
+    {
+      "song_name": "Can't Get You out of My Head",
+      "artist": "Kylie Minogue"
+    },
+    {
+      "song_name": "Genie in a Bottle",
+      "artist": "Christina Aguilera"
+    },
+    {
+      "song_name": "Keep On Running",
+      "artist": "The Spencer Davis Group"
+    },
+    {
+      "song_name": "Replay",
+      "artist": "Iyaz"
+    },
+    {
+      "song_name": "Rockstar",
+      "artist": "Nickelback"
+    },
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "You're The One That I Want - From \"Grease\" Original Motion Picture Soundtrack",
+      "artist": "John Travolta, Olivia Newton-John"
+    },
+    {
+      "song_name": "She's So Lovely",
+      "artist": "Scouting For Girls"
+    },
+    {
+      "song_name": "Teenage Dirtbag",
+      "artist": "Wheatus"
+    },
+    {
+      "song_name": "Grace Kelly",
+      "artist": "MIKA"
+    },
+    {
+      "song_name": "Stacy's Mom",
+      "artist": "Fountains Of Wayne"
+    },
+    {
+      "song_name": "Mambo No. 5 (A Little Bit of...)",
+      "artist": "Lou Bega"
+    },
+    {
+      "song_name": "September",
+      "artist": "Earth, Wind & Fire"
+    },
+    {
+      "song_name": "Sk8er Boi",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Beautiful Girls",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "Rock DJ - 2004 Mix",
+      "artist": "Robbie Williams"
+    },
+    {
+      "song_name": "The Fresh Prince of Bel-Air",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince"
+    },
+    {
+      "song_name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "artist": "C & C Music Factory, Freedom Williams"
+    },
+    {
+      "song_name": "Man! I Feel Like A Woman!",
+      "artist": "Shania Twain"
+    },
+    {
+      "song_name": "Mysterious Girl - Radio Edit",
+      "artist": "Peter Andre"
+    },
+    {
+      "song_name": "Reach",
+      "artist": "S Club"
+    },
+    {
+      "song_name": "Love Machine",
+      "artist": "Girls Aloud"
+    },
+    {
+      "song_name": "Take Your Mama",
+      "artist": "Scissor Sisters"
+    },
+    {
+      "song_name": "I Don't Feel Like Dancin' - Radio Edit",
+      "artist": "Scissor Sisters"
+    },
+    {
+      "song_name": "Five Colours In Her Hair",
+      "artist": "McFly"
+    },
+    {
+      "song_name": "I'm Your Man",
+      "artist": "Wham!"
+    },
+    {
+      "song_name": "All Summer Long",
+      "artist": "Kid Rock"
+    },
+    {
+      "song_name": "It's Raining Men",
+      "artist": "The Weather Girls"
+    },
+    {
+      "song_name": "Grease - 2007 Remaster",
+      "artist": "Frankie Valli"
+    },
+    {
+      "song_name": "Superstition",
+      "artist": "Stevie Wonder"
+    },
+    {
+      "song_name": "9 to 5",
+      "artist": "Dolly Parton"
+    },
+    {
+      "song_name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "artist": "Mark Ronson, Amy Winehouse"
+    },
+    {
+      "song_name": "Mercy",
+      "artist": "Duffy"
+    },
+    {
+      "song_name": "Black Horse And The Cherry Tree",
+      "artist": "KT Tunstall"
+    },
+    {
+      "song_name": "Hand in My Pocket - 2015 Remaster",
+      "artist": "Alanis Morissette"
+    },
+    {
+      "song_name": "Don't Go Breaking My Heart",
+      "artist": "Elton John, Kiki Dee"
+    },
+    {
+      "song_name": "Are You Gonna Be My Girl",
+      "artist": "Jet"
+    },
+    {
+      "song_name": "Freedom",
+      "artist": "Wham!"
+    },
+    {
+      "song_name": "Respect - 2003 Remaster",
+      "artist": "Aretha Franklin"
+    },
+    {
+      "song_name": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire, The Emotions"
+    },
+    {
+      "song_name": "Car Wash - Single Version",
+      "artist": "Rose Royce"
+    },
+    {
+      "song_name": "December, 1963 (Oh What a Night!)",
+      "artist": "Frankie Valli & The Four Seasons"
+    },
+    {
+      "song_name": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd"
+    },
+    {
+      "song_name": "Crazy In Love (feat. Jay-Z)",
+      "artist": "Beyonc\u00e9, JAY-Z"
+    },
+    {
+      "song_name": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra"
+    },
+    {
+      "song_name": "Crazy Little Thing Called Love - Remastered 2011",
+      "artist": "Queen"
+    },
+    {
+      "song_name": "Livin' On A Prayer",
+      "artist": "Bon Jovi"
+    },
+    {
+      "song_name": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses"
+    },
+    {
+      "song_name": "Highway to Hell",
+      "artist": "AC/DC"
+    },
+    {
+      "song_name": "I'm a Believer",
+      "artist": "The Monkees"
+    },
+    {
+      "song_name": "Working My Way Back to You",
+      "artist": "The Spinners"
+    },
+    {
+      "song_name": "I Want You Back",
+      "artist": "The Jackson 5"
+    },
+    {
+      "song_name": "Sweet Caroline",
+      "artist": "Neil Diamond"
+    },
+    {
+      "song_name": "My Sharona",
+      "artist": "The Knack"
+    },
+    {
+      "song_name": "Theme From New York, New York",
+      "artist": "Frank Sinatra"
+    }
+  ],
+  "Can I Vibe With Y\u2019all Guilty Pleasures ": [
+    {
+      "song_name": "Unwritten",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "These Words",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "I Hate This Part",
+      "artist": "The Pussycat Dolls"
+    },
+    {
+      "song_name": "I'm Like A Bird",
+      "artist": "Nelly Furtado"
+    },
+    {
+      "song_name": "Better in Time",
+      "artist": "Leona Lewis"
+    },
+    {
+      "song_name": "Unfaithful",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Try Sleeping with a Broken Heart",
+      "artist": "Alicia Keys"
+    },
+    {
+      "song_name": "With You",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "How Do I Breathe",
+      "artist": "Mario"
+    },
+    {
+      "song_name": "Say Goodbye",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "Crush",
+      "artist": "David Archuleta"
+    },
+    {
+      "song_name": "The Way That I Love You",
+      "artist": "Ashanti"
+    },
+    {
+      "song_name": "Breakeven",
+      "artist": "The Script"
+    },
+    {
+      "song_name": "Can't Help but Wait",
+      "artist": "Trey Songz"
+    },
+    {
+      "song_name": "Ordinary People",
+      "artist": "John Legend"
+    },
+    {
+      "song_name": "Tonight (Best You Ever Had) (feat. Ludacris)",
+      "artist": "John Legend, Ludacris"
+    },
+    {
+      "song_name": "Somebody That I Used To Know",
+      "artist": "Gotye, Kimbra"
+    },
+    {
+      "song_name": "Stolen Dance",
+      "artist": "Milky Chance"
+    },
+    {
+      "song_name": "Stickwitu",
+      "artist": "The Pussycat Dolls"
+    },
+    {
+      "song_name": "Love",
+      "artist": "Keyshia Cole"
+    },
+    {
+      "song_name": "Just the Way You Are",
+      "artist": "Bruno Mars"
+    },
+    {
+      "song_name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams"
+    },
+    {
+      "song_name": "Ridin' Solo",
+      "artist": "Jason Derulo"
+    },
+    {
+      "song_name": "Lovebug",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "Somebody To Love",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Burnin' Up",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "Breaking Free",
+      "artist": "Troy, Gabriella, Disney"
+    },
+    {
+      "song_name": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler"
+    },
+    {
+      "song_name": "Gimme More",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Wide Awake",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "You",
+      "artist": "Lloyd, Lil Wayne"
+    },
+    {
+      "song_name": "Just Dance",
+      "artist": "Lady Gaga, Colby O'Donis"
+    },
+    {
+      "song_name": "Poker Face",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper"
+    },
+    {
+      "song_name": "I Don't Know What Love Is",
+      "artist": "Lady Gaga, Bradley Cooper"
+    },
+    {
+      "song_name": "Video Phone (feat. Lady Gaga)",
+      "artist": "Beyonc\u00e9, Lady Gaga, William Burke"
+    },
+    {
+      "song_name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Chained To The Rhythm",
+      "artist": "Katy Perry, Skip Marley"
+    },
+    {
+      "song_name": "Birthday",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Mine (feat. Drake)",
+      "artist": "Beyonc\u00e9, Drake"
+    },
+    {
+      "song_name": "If I Were a Boy",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "Dangerously In Love",
+      "artist": "Destiny's Child"
+    },
+    {
+      "song_name": "When I See U",
+      "artist": "Fantasia"
+    },
+    {
+      "song_name": "Me & U",
+      "artist": "Cassie"
+    },
+    {
+      "song_name": "How You Remind Me",
+      "artist": "Nickelback"
+    },
+    {
+      "song_name": "Sweater Weather",
+      "artist": "The Neighbourhood"
+    },
+    {
+      "song_name": "Lady - Hear Me Tonight",
+      "artist": "Modjo"
+    },
+    {
+      "song_name": "Dear To Me",
+      "artist": "Electric Guest"
+    },
+    {
+      "song_name": "Break Your Little Heart",
+      "artist": "All Time Low"
+    },
+    {
+      "song_name": "Pretty Girl Rock",
+      "artist": "Keri Hilson"
+    },
+    {
+      "song_name": "Come Clean",
+      "artist": "Hilary Duff"
+    },
+    {
+      "song_name": "This Love",
+      "artist": "Maroon 5"
+    },
+    {
+      "song_name": "The Less I Know The Better",
+      "artist": "Tame Impala"
+    },
+    {
+      "song_name": "Paradise",
+      "artist": "Coldplay"
+    },
+    {
+      "song_name": "Clocks",
+      "artist": "Coldplay"
+    },
+    {
+      "song_name": "A Sky Full of Stars",
+      "artist": "Coldplay"
+    },
+    {
+      "song_name": "Thinking out Loud",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "song_name": "Photograph",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "song_name": "All We Need",
+      "artist": "ODESZA, Shy Girls"
+    },
+    {
+      "song_name": "Same Ol\u2019 Mistakes",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Biking",
+      "artist": "Frank Ocean, JAY-Z, Tyler, The Creator"
+    },
+    {
+      "song_name": "EARFQUAKE",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "song_name": "Les",
+      "artist": "Childish Gambino"
+    },
+    {
+      "song_name": "Heartbeat",
+      "artist": "Childish Gambino"
+    },
+    {
+      "song_name": "Heat Waves",
+      "artist": "Glass Animals"
+    },
+    {
+      "song_name": "Better",
+      "artist": "Khalid"
+    },
+    {
+      "song_name": "Fireflies",
+      "artist": "Owl City"
+    },
+    {
+      "song_name": "Rocketeer",
+      "artist": "Far East Movement, Ryan Tedder, Ruff Loaderz"
+    },
+    {
+      "song_name": "Cater 2 U",
+      "artist": "Destiny's Child"
+    },
+    {
+      "song_name": "One Step At a Time",
+      "artist": "Jordin Sparks"
+    },
+    {
+      "song_name": "Russian Roulette",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "No Air (feat. Chris Brown)",
+      "artist": "Jordin Sparks, Chris Brown"
+    },
+    {
+      "song_name": "SBCNCSLY",
+      "artist": "Black Coffee, Sabrina Claudio"
+    },
+    {
+      "song_name": "Let Me Love You",
+      "artist": "Mario"
+    },
+    {
+      "song_name": "Put It Down (feat. Chris Brown)",
+      "artist": "Brandy, Chris Brown"
+    },
+    {
+      "song_name": "Beautiful Soul",
+      "artist": "Jesse McCartney"
+    },
+    {
+      "song_name": "Yo (Excuse Me Miss)",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "Forever",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "Gives You Hell",
+      "artist": "The All-American Rejects"
+    },
+    {
+      "song_name": "I Write Sins Not Tragedies",
+      "artist": "Panic! At The Disco"
+    },
+    {
+      "song_name": "Fall for You",
+      "artist": "Secondhand Serenade"
+    },
+    {
+      "song_name": "Big Girls Don't Cry (Personal)",
+      "artist": "Fergie"
+    },
+    {
+      "song_name": "I Hope You Dance",
+      "artist": "Lee Ann Womack"
+    },
+    {
+      "song_name": "The Reason",
+      "artist": "Hoobastank"
+    },
+    {
+      "song_name": "I Want It That Way",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "(I Just) Died In Your Arms",
+      "artist": "Cutting Crew"
+    },
+    {
+      "song_name": "Chasing Cars",
+      "artist": "Snow Patrol"
+    },
+    {
+      "song_name": "Separate Ways (Worlds Apart)",
+      "artist": "Journey"
+    },
+    {
+      "song_name": "Let Her Go",
+      "artist": "Passenger"
+    },
+    {
+      "song_name": "Out of My League",
+      "artist": "Fitz and The Tantrums"
+    },
+    {
+      "song_name": "Bodies",
+      "artist": "Drowning Pool"
+    },
+    {
+      "song_name": "Animal I Have Become",
+      "artist": "Three Days Grace"
+    },
+    {
+      "song_name": "Boyfriend",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "I Won't Give Up",
+      "artist": "Jason Mraz"
+    },
+    {
+      "song_name": "Stereo Love - Radio Edit",
+      "artist": "Edward Maya, Vika Jigulina"
+    },
+    {
+      "song_name": "Paparazzi",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "California King Bed",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Chandelier",
+      "artist": "Sia"
+    },
+    {
+      "song_name": "Latch",
+      "artist": "Disclosure, Sam Smith"
+    },
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    }
+  ],
+  "guilty pleasure songs": [
+    {
+      "song_name": "Baby",
+      "artist": "Justin Bieber, Ludacris"
+    },
+    {
+      "song_name": "What Makes You Beautiful",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Boyfriend",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "One Time",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Never Say Never",
+      "artist": "Justin Bieber, Jaden"
+    },
+    {
+      "song_name": "One Less Lonely Girl",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "U Smile",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj"
+    },
+    {
+      "song_name": "Somebody To Love",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "OMG (feat. will.i.am)",
+      "artist": "USHER, will.i.am"
+    },
+    {
+      "song_name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artist": "USHER, Pitbull"
+    },
+    {
+      "song_name": "Fire Burning",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "Ridin' Solo",
+      "artist": "Jason Derulo"
+    },
+    {
+      "song_name": "Whatcha Say",
+      "artist": "Jason Derulo"
+    },
+    {
+      "song_name": "Break Your Heart",
+      "artist": "Taio Cruz"
+    },
+    {
+      "song_name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams"
+    },
+    {
+      "song_name": "Down",
+      "artist": "Jay Sean, Lil Wayne"
+    },
+    {
+      "song_name": "Kiss Me Thru The Phone",
+      "artist": "Soulja Boy, Sammie"
+    },
+    {
+      "song_name": "Forever",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "BedRock",
+      "artist": "Young Money, Lloyd"
+    },
+    {
+      "song_name": "Beautiful Girls",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+      "artist": "T-Pain, Yung Joc"
+    },
+    {
+      "song_name": "Billionaire (feat. Bruno Mars)",
+      "artist": "Travie McCoy, Bruno Mars"
+    },
+    {
+      "song_name": "Hey, Soul Sister",
+      "artist": "Train"
+    },
+    {
+      "song_name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars"
+    },
+    {
+      "song_name": "Just the Way You Are",
+      "artist": "Bruno Mars"
+    },
+    {
+      "song_name": "Never Gonna Give You Up",
+      "artist": "Rick Astley"
+    },
+    {
+      "song_name": "Take on Me",
+      "artist": "a-ha"
+    },
+    {
+      "song_name": "Stayin Alive",
+      "artist": "Bee Gees"
+    },
+    {
+      "song_name": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler"
+    },
+    {
+      "song_name": "Y.M.C.A.",
+      "artist": "Village People"
+    },
+    {
+      "song_name": "Ice Ice Baby",
+      "artist": "Vanilla Ice"
+    },
+    {
+      "song_name": "Baby Got Back",
+      "artist": "Sir Mix-A-Lot"
+    },
+    {
+      "song_name": "Who Let The Dogs Out",
+      "artist": "Baha Men"
+    },
+    {
+      "song_name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "artist": "Eiffel 65, Gabry Ponte"
+    },
+    {
+      "song_name": "Everybody (Backstreet's Back) - Extended Version",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Tearin' up My Heart - Radio Edit",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "(You Drive Me) Crazy",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Stronger",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Teenage Dirtbag",
+      "artist": "Wheatus"
+    },
+    {
+      "song_name": "Stacy's Mom",
+      "artist": "Fountains Of Wayne"
+    },
+    {
+      "song_name": "Scotty Doesn't Know",
+      "artist": "Lustra"
+    },
+    {
+      "song_name": "Teenagers",
+      "artist": "My Chemical Romance"
+    },
+    {
+      "song_name": "Mr. Brightside",
+      "artist": "The Killers"
+    },
+    {
+      "song_name": "Gives You Hell",
+      "artist": "The All-American Rejects"
+    },
+    {
+      "song_name": "Genie In a Bottle",
+      "artist": "Christina Aguilera"
+    },
+    {
+      "song_name": "I'm Like A Bird",
+      "artist": "Nelly Furtado"
+    },
+    {
+      "song_name": "You're The One That I Want - From \u201cGrease\u201d",
+      "artist": "John Travolta, Olivia Newton-John"
+    },
+    {
+      "song_name": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper"
+    },
+    {
+      "song_name": "Material Girl",
+      "artist": "Madonna"
+    },
+    {
+      "song_name": "SOS",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Shut Up And Drive",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "See You Again",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Circus",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "If U Seek Amy",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Gimme More",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "3",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Till the World Ends",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "I Wanna Go",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Blow",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "We R Who We R",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "I'm a Slave 4 U",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Promiscuous",
+      "artist": "Nelly Furtado, Timbaland"
+    },
+    {
+      "song_name": "Mamma Mia",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "We Go Together - From \u201cGrease\u201d",
+      "artist": "John Travolta, Olivia Newton-John"
+    },
+    {
+      "song_name": "Turn Me On (feat. Nicki Minaj)",
+      "artist": "David Guetta, Nicki Minaj"
+    },
+    {
+      "song_name": "Pound The Alarm",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "Starships",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "Super Bass",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "Die Young",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "Va Va Voom",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "E.T.",
+      "artist": "Katy Perry, Kanye West"
+    },
+    {
+      "song_name": "Wide Awake",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Dancing Queen",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "My Humps",
+      "artist": "Black Eyed Peas"
+    },
+    {
+      "song_name": "It's Gonna Be Me",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Womanizer",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "S&M",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Only Girl (In The World)",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Born This Way",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "California Gurls",
+      "artist": "Katy Perry, Snoop Dogg"
+    },
+    {
+      "song_name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Timber",
+      "artist": "Pitbull, Kesha"
+    },
+    {
+      "song_name": "Feel This Moment (feat. Christina Aguilera)",
+      "artist": "Pitbull, Christina Aguilera"
+    },
+    {
+      "song_name": "Scream & Shout",
+      "artist": "will.i.am, Britney Spears"
+    },
+    {
+      "song_name": "#thatPOWER",
+      "artist": "will.i.am, Justin Bieber"
+    },
+    {
+      "song_name": "Heart Attack",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "Give Your Heart a Break",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "Skyscraper",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "jar of hearts",
+      "artist": "Christina Perri"
+    },
+    {
+      "song_name": "Warrior",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "human",
+      "artist": "Christina Perri"
+    },
+    {
+      "song_name": "If I Die Young",
+      "artist": "The Band Perry"
+    },
+    {
+      "song_name": "Really Don't Care",
+      "artist": "Demi Lovato, Cher Lloyd"
+    },
+    {
+      "song_name": "Replay",
+      "artist": "Zendaya"
+    },
+    {
+      "song_name": "I Wish (feat. T.I.)",
+      "artist": "Cher Lloyd, T.I."
+    },
+    {
+      "song_name": "Here's to Never Growing Up",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "What the Hell",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Smile",
+      "artist": "Avril Lavigne"
+    }
+  ],
+  "HITSTER guilty pleasures": [
+    {
+      "song_name": "Ja Jij",
+      "artist": "Joe Stagiair van de Show"
+    },
+    {
+      "song_name": "Automatisch",
+      "artist": "FLEMMING"
+    },
+    {
+      "song_name": "Hallo",
+      "artist": "Antoon"
+    },
+    {
+      "song_name": "Made You Look",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "song_name": "Einstein",
+      "artist": "Trobi, LouiVos, Mula B"
+    },
+    {
+      "song_name": "Never Going Home",
+      "artist": "Kungs"
+    },
+    {
+      "song_name": "Ik Ga Zwemmen",
+      "artist": "Mart Hoogkamer"
+    },
+    {
+      "song_name": "Frans Duits",
+      "artist": "Donnie, Frans Duijts"
+    },
+    {
+      "song_name": "You Want My Money",
+      "artist": "Lilly Wood and The Prick"
+    },
+    {
+      "song_name": "Talk About",
+      "artist": "Rain Radio, DJ Craig Gorman"
+    },
+    {
+      "song_name": "Ik Ben Kachel",
+      "artist": "OBZ"
+    },
+    {
+      "song_name": "Take You Dancing",
+      "artist": "Jason Derulo"
+    },
+    {
+      "song_name": "Dynamite",
+      "artist": "BTS"
+    },
+    {
+      "song_name": "Watermelon Sugar",
+      "artist": "Harry Styles"
+    },
+    {
+      "song_name": "RITMO (Bad Boys For Life)",
+      "artist": "Black Eyed Peas, J Balvin"
+    },
+    {
+      "song_name": "De Toreador",
+      "artist": "Opgeblazen, Wilbert Pigmans"
+    },
+    {
+      "song_name": "Con Calma",
+      "artist": "Daddy Yankee, Snow"
+    },
+    {
+      "song_name": "Wereldbol",
+      "artist": "Kav Verhouzer, De Hofnar"
+    },
+    {
+      "song_name": "Frikandel Speciaal",
+      "artist": "Stefan en Sean, Bram Krikke"
+    },
+    {
+      "song_name": "High Hopes",
+      "artist": "Panic! At The Disco"
+    },
+    {
+      "song_name": "LEKKER MET DE MEIDEN",
+      "artist": "MEROL"
+    },
+    {
+      "song_name": "Old Town Road",
+      "artist": "Lil Nas X"
+    },
+    {
+      "song_name": "JA!",
+      "artist": "Bizzey, Kraantje Pappie, Chivv, Yung Felix"
+    },
+    {
+      "song_name": "Despacito",
+      "artist": "Luis Fonsi, Daddy Yankee"
+    },
+    {
+      "song_name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "artist": "Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav"
+    },
+    {
+      "song_name": "Mi Gente",
+      "artist": "J Balvin, Willy William"
+    },
+    {
+      "song_name": "Mexicali",
+      "artist": "Polo & Pan"
+    },
+    {
+      "song_name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
+      "artist": "John De Bever"
+    },
+    {
+      "song_name": "Liever Te Dik In De Kist",
+      "artist": "Rene Karst, Stef Ekkel"
+    },
+    {
+      "song_name": "No Money",
+      "artist": "Galantis"
+    },
+    {
+      "song_name": "PPAP (Pen-Pineapple-Apple-Pen)",
+      "artist": "PIKOTARO"
+    },
+    {
+      "song_name": "Links Rechts",
+      "artist": "Snollebollekes"
+    },
+    {
+      "song_name": "Cake By The Ocean",
+      "artist": "DNCE"
+    },
+    {
+      "song_name": "Policeman",
+      "artist": "Eva Simons, Konshens"
+    },
+    {
+      "song_name": "Leef",
+      "artist": "Andr\u00e9 Hazes Jr."
+    },
+    {
+      "song_name": "Bills",
+      "artist": "LunchMoney Lewis"
+    },
+    {
+      "song_name": "Sing",
+      "artist": "Ed Sheeran"
+    },
+    {
+      "song_name": "Feesttent",
+      "artist": "Kraantje Pappie, MC Jiggy Dj\u00e9"
+    },
+    {
+      "song_name": "Mooie Dag",
+      "artist": "Jayh"
+    },
+    {
+      "song_name": "Shake It Off",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Fancy",
+      "artist": "Iggy Azalea, Charli xcx"
+    },
+    {
+      "song_name": "Mimimi",
+      "artist": "SEREBRO"
+    },
+    {
+      "song_name": "Turn Down for What",
+      "artist": "DJ Snake, Lil Jon"
+    },
+    {
+      "song_name": "Watch Out For This (Bumaye) [feat. Busy Signal, The Flexican, FS Green]",
+      "artist": "Major Lazer, Busy Signal, FS Green, The Flexican"
+    },
+    {
+      "song_name": "Atemlos durch die Nacht",
+      "artist": "Helene Fischer"
+    },
+    {
+      "song_name": "Hoe",
+      "artist": "Miss Montreal, Nielson"
+    },
+    {
+      "song_name": "One Way or Another (Teenage Kicks)",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Da Bop - Video Edit",
+      "artist": "WTF!"
+    },
+    {
+      "song_name": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "song_name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "artist": "PSY"
+    },
+    {
+      "song_name": "Harlem Shake",
+      "artist": "Baauer"
+    },
+    {
+      "song_name": "I Love It (feat. Charli XCX)",
+      "artist": "Icona Pop, Charli xcx"
+    },
+    {
+      "song_name": "Hey DJ",
+      "artist": "The Opposites"
+    },
+    {
+      "song_name": "Sexy And I Know It",
+      "artist": "LMFAO"
+    },
+    {
+      "song_name": "Plage",
+      "artist": "Crystal Fighters"
+    },
+    {
+      "song_name": "F*cking Vet!!!",
+      "artist": "Britt"
+    },
+    {
+      "song_name": "Met Romana op de scooter",
+      "artist": "Zanger Rinus"
+    },
+    {
+      "song_name": "Sex Met Die Kale",
+      "artist": "Lawineboys, DJ Jerome"
+    },
+    {
+      "song_name": "Ik Neem Je Mee",
+      "artist": "Gers Pardoel"
+    },
+    {
+      "song_name": "We No Speak Americano",
+      "artist": "Yolanda Be Cool, DCup"
+    },
+    {
+      "song_name": "Who's That Chick? (feat. Rihanna)",
+      "artist": "David Guetta, Rihanna"
+    },
+    {
+      "song_name": "Danza Kuduro",
+      "artist": "Don Omar, Lucenzo"
+    },
+    {
+      "song_name": "Baby",
+      "artist": "Justin Bieber, Ludacris"
+    },
+    {
+      "song_name": "Just the Way You Are",
+      "artist": "Bruno Mars"
+    },
+    {
+      "song_name": "Nein, Mann!",
+      "artist": "Laserkraft 3D"
+    },
+    {
+      "song_name": "I Think I Like It",
+      "artist": "Fake Blood"
+    },
+    {
+      "song_name": "Mi Rowsu (Tuintje In Mijn Hart)",
+      "artist": "Damaru, Jan Smit"
+    },
+    {
+      "song_name": "Just Say Yes",
+      "artist": "Snow Patrol"
+    },
+    {
+      "song_name": "Evacuate The Dancefloor - Radio Edit",
+      "artist": "Cascada"
+    },
+    {
+      "song_name": "Broodje Bakpao",
+      "artist": "The Opposites, Sef, Gers Pardoel"
+    },
+    {
+      "song_name": "Bulletproof",
+      "artist": "La Roux"
+    },
+    {
+      "song_name": "When Love Takes Over (feat. Kelly Rowland)",
+      "artist": "David Guetta, Kelly Rowland"
+    },
+    {
+      "song_name": "All Summer Long",
+      "artist": "Kid Rock"
+    },
+    {
+      "song_name": "Rosanne",
+      "artist": "Nick & Simon"
+    },
+    {
+      "song_name": "Just Dance",
+      "artist": "Lady Gaga, Colby O'Donis"
+    },
+    {
+      "song_name": "I Kissed A Girl",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Ai Se Eu Te Pego",
+      "artist": "Michel Tel\u00f3"
+    },
+    {
+      "song_name": "Maak Me Gek",
+      "artist": "Gerard Joling"
+    },
+    {
+      "song_name": "Big Girl (You Are Beautiful)",
+      "artist": "MIKA"
+    },
+    {
+      "song_name": "Alles Is Liefde",
+      "artist": "BL\u00d8F"
+    },
+    {
+      "song_name": "Laat De Zon In Je Hart",
+      "artist": "Rene Schuurmans"
+    },
+    {
+      "song_name": "Destination Calabria - Radio Edit",
+      "artist": "Alex Gaudino, Crystal Waters"
+    },
+    {
+      "song_name": "Hot",
+      "artist": "INNA"
+    },
+    {
+      "song_name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira, Wyclef Jean"
+    },
+    {
+      "song_name": "Cry for You",
+      "artist": "September"
+    },
+    {
+      "song_name": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake, Timbaland"
+    },
+    {
+      "song_name": "Put Your Hands Up 4 Detroit",
+      "artist": "Fedde Le Grand"
+    },
+    {
+      "song_name": "I Don't Feel Like Dancin'",
+      "artist": "Scissor Sisters"
+    },
+    {
+      "song_name": "Crazy",
+      "artist": "Gnarls Barkley"
+    },
+    {
+      "song_name": "Toppertje! - Original Mix",
+      "artist": "Guillermo, Tropical Danny"
+    },
+    {
+      "song_name": "Don't Cha",
+      "artist": "The Pussycat Dolls, Busta Rhymes"
+    },
+    {
+      "song_name": "Watskeburt?!",
+      "artist": "De Jeugd Van Tegenwoordig"
+    },
+    {
+      "song_name": "Love Generation - Radio Edit",
+      "artist": "Bob Sinclar, Gary Pine"
+    },
+    {
+      "song_name": "What You Waiting For?",
+      "artist": "Gwen Stefani"
+    },
+    {
+      "song_name": "Gasolina",
+      "artist": "Daddy Yankee"
+    },
+    {
+      "song_name": "Not In Love",
+      "artist": "Enrique Iglesias"
+    },
+    {
+      "song_name": "The Weekend - Radio Edit",
+      "artist": "Michael Gray"
+    },
+    {
+      "song_name": "Viben",
+      "artist": "K-Liber"
+    },
+    {
+      "song_name": "Ding Dong Song - Radio Edit",
+      "artist": "G\u00fcnther"
+    },
+    {
+      "song_name": "From Paris to Berlin",
+      "artist": "Infernal"
+    }
+  ],
+  "Guilty Pleasure Mix": [
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "One Thing",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "It's Gonna Be Me",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Love You Like A Love Song",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "Grace Kelly",
+      "artist": "MIKA"
+    },
+    {
+      "song_name": "Boyfriend",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Poker Face",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Can't Get You out of My Head",
+      "artist": "Kylie Minogue"
+    },
+    {
+      "song_name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "The Bad Touch",
+      "artist": "Bloodhound Gang"
+    },
+    {
+      "song_name": "Wag Na",
+      "artist": "Realest Cram, CK YG"
+    },
+    {
+      "song_name": "Oops!...I Did It Again",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "A Thousand Miles",
+      "artist": "Vanessa Carlton"
+    },
+    {
+      "song_name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Up All Night",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Baby",
+      "artist": "Justin Bieber, Ludacris"
+    },
+    {
+      "song_name": "Wrecking Ball",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Teenage Dream",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Promiscuous",
+      "artist": "Nelly Furtado, Timbaland"
+    },
+    {
+      "song_name": "Larger Than Life",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Believe",
+      "artist": "Cher"
+    },
+    {
+      "song_name": "Heart Attack",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "Gusto Ko Sakin Ka Lang",
+      "artist": "Robledo Timido"
+    },
+    {
+      "song_name": "Crazy In Love (feat. Jay-Z)",
+      "artist": "Beyonc\u00e9, JAY-Z"
+    },
+    {
+      "song_name": "Midnight Memories",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Hey, Soul Sister",
+      "artist": "Train"
+    },
+    {
+      "song_name": "One Less Lonely Girl",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Never Gonna Give You Up",
+      "artist": "Rick Astley"
+    },
+    {
+      "song_name": "Only Girl (In The World)",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Cry Me a River",
+      "artist": "Justin Timberlake"
+    },
+    {
+      "song_name": "Torn",
+      "artist": "Natalie Imbruglia"
+    },
+    {
+      "song_name": "Barbie Girl",
+      "artist": "Aqua"
+    },
+    {
+      "song_name": "Bed Chem",
+      "artist": "Sabrina Carpenter"
+    },
+    {
+      "song_name": "BMW",
+      "artist": "Because, Leslie"
+    },
+    {
+      "song_name": "Night Changes",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "All Star",
+      "artist": "Smash Mouth"
+    },
+    {
+      "song_name": "As Long As You Love Me",
+      "artist": "Justin Bieber, Big Sean"
+    },
+    {
+      "song_name": "Girlfriend",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Dancing Queen",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "Spice Up Your Life",
+      "artist": "Spice Girls"
+    },
+    {
+      "song_name": "Mirrors",
+      "artist": "Justin Timberlake"
+    },
+    {
+      "song_name": "Dear Future Husband",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "song_name": "Drops of Jupiter (Tell Me)",
+      "artist": "Train"
+    },
+    {
+      "song_name": "24/7",
+      "artist": "ALIZADE, BEGE"
+    },
+    {
+      "song_name": "Beautiful Soul",
+      "artist": "Jesse McCartney"
+    },
+    {
+      "song_name": "History",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "The Call",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Sorry",
+      "artist": "Justin Bieber"
+    }
+  ],
+  "House of Juice": [
+    {
+      "song_name": "Les Fleurs",
+      "artist": "Minnie Riperton"
+    },
+    {
+      "song_name": "Love, Need and Want You",
+      "artist": "Patti LaBelle"
+    },
+    {
+      "song_name": "Now That We Found Love",
+      "artist": "The O'Jays"
+    },
+    {
+      "song_name": "Never Knew Love Like This Before",
+      "artist": "Stephanie Mills"
+    },
+    {
+      "song_name": "I'll Be Around",
+      "artist": "The Spinners"
+    },
+    {
+      "song_name": "Intimate Friends",
+      "artist": "Eddie Kendricks"
+    },
+    {
+      "song_name": "Rubber Band",
+      "artist": "The Trammps"
+    },
+    {
+      "song_name": "Could It Be I'm Falling in Love",
+      "artist": "The Spinners"
+    },
+    {
+      "song_name": "Darlin' Darlin' Baby (Sweet, Tender, Love)",
+      "artist": "The O'Jays"
+    },
+    {
+      "song_name": "Let Me Down Easy",
+      "artist": "Bettye LaVette"
+    },
+    {
+      "song_name": "Let's Stay Together",
+      "artist": "Al Green"
+    },
+    {
+      "song_name": "Devotion",
+      "artist": "Earth, Wind & Fire"
+    },
+    {
+      "song_name": "She's Gone",
+      "artist": "Daryl Hall & John Oates"
+    },
+    {
+      "song_name": "Just My Imagination (Running Away With Me)",
+      "artist": "The Temptations"
+    },
+    {
+      "song_name": "Let's Do It Again",
+      "artist": "The Staple Singers"
+    },
+    {
+      "song_name": "Don't You Know That?",
+      "artist": "Luther Vandross"
+    },
+    {
+      "song_name": "Don't Let It Go to Your Head - 12\" Version",
+      "artist": "Jean Carn"
+    },
+    {
+      "song_name": "Don't Tell Me, Tell Her",
+      "artist": "Phyllis Hyman"
+    },
+    {
+      "song_name": "Rescue Me - Remastered",
+      "artist": "A Taste Of Honey"
+    },
+    {
+      "song_name": "I Want'a Do Something Freaky To You",
+      "artist": "Leon Haywood"
+    },
+    {
+      "song_name": "Do It Baby",
+      "artist": "The Miracles, Billy Griffin"
+    },
+    {
+      "song_name": "Sweet Stuff",
+      "artist": "Sylvia"
+    },
+    {
+      "song_name": "Love Hangover - Single Version",
+      "artist": "Diana Ross"
+    },
+    {
+      "song_name": "Lonely Disco Dancer",
+      "artist": "Dee Dee Bridgewater"
+    },
+    {
+      "song_name": "Boogie Oogie Oogie - Single Version 2 / Remastered 1999",
+      "artist": "A Taste Of Honey"
+    },
+    {
+      "song_name": "You Know How to Love Me",
+      "artist": "Phyllis Hyman"
+    },
+    {
+      "song_name": "Thinking of You - 1995 Remaster",
+      "artist": "Sister Sledge"
+    },
+    {
+      "song_name": "It's A Love Thing",
+      "artist": "The Whispers"
+    },
+    {
+      "song_name": "You Can't Run From My Love - 12\" Remix",
+      "artist": "Stephanie Mills"
+    },
+    {
+      "song_name": "The Glow of Love",
+      "artist": "Change, Luther Vandross"
+    },
+    {
+      "song_name": "Take That to the Bank",
+      "artist": "Shalamar"
+    },
+    {
+      "song_name": "Good Times",
+      "artist": "CHIC"
+    },
+    {
+      "song_name": "He's the Greatest Dancer - 1995 Remaster",
+      "artist": "Sister Sledge"
+    },
+    {
+      "song_name": "Sugar and Spice (I Found Me a Girl)",
+      "artist": "Luther Vandross"
+    },
+    {
+      "song_name": "Best of My Love",
+      "artist": "The Emotions"
+    },
+    {
+      "song_name": "Love Sensation - Original Mix",
+      "artist": "Loleatta Holloway"
+    },
+    {
+      "song_name": "My Forbidden Lover - 2006 Remaster",
+      "artist": "CHIC"
+    },
+    {
+      "song_name": "Give Me Your Love",
+      "artist": "Sylvia Striplin"
+    },
+    {
+      "song_name": "Street Player - 2003 Remaster",
+      "artist": "Chicago"
+    },
+    {
+      "song_name": "Hold Tight - Full Length Album Mix",
+      "artist": "Change"
+    },
+    {
+      "song_name": "Feel Like Making Love",
+      "artist": "George Benson"
+    },
+    {
+      "song_name": "You're Gonna Want Me Back",
+      "artist": "Delia Renee"
+    },
+    {
+      "song_name": "Too Hot - Single Version",
+      "artist": "Kool & The Gang"
+    },
+    {
+      "song_name": "Outstanding - Original 12\" Mix",
+      "artist": "The Gap Band"
+    },
+    {
+      "song_name": "Teardrops - 7\" Edit",
+      "artist": "Womack & Womack"
+    },
+    {
+      "song_name": "Secret Rendezvous",
+      "artist": "Rene & Angela"
+    },
+    {
+      "song_name": "Love Come Down",
+      "artist": "Evelyn \"Champagne\" King"
+    },
+    {
+      "song_name": "Never Too Much",
+      "artist": "Luther Vandross"
+    },
+    {
+      "song_name": "Before I Let Go",
+      "artist": "Maze, Frankie Beverly"
+    },
+    {
+      "song_name": "I Like It",
+      "artist": "DeBarge"
+    },
+    {
+      "song_name": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell"
+    },
+    {
+      "song_name": "Let Me Show Ya",
+      "artist": "Jazzanova, Paul Randolph"
+    },
+    {
+      "song_name": "Give Me the Night",
+      "artist": "George Benson"
+    },
+    {
+      "song_name": "Heaven of My Life - Full Length Album Mix",
+      "artist": "Change"
+    },
+    {
+      "song_name": "I Can Make You Feel Good - 12\" Version",
+      "artist": "Shalamar"
+    },
+    {
+      "song_name": "Too Tight",
+      "artist": "Con Funk Shun"
+    },
+    {
+      "song_name": "I Wanna Be Your Lover",
+      "artist": "Prince"
+    },
+    {
+      "song_name": "Just a Touch of Love",
+      "artist": "Slave"
+    },
+    {
+      "song_name": "Treat Her Like A Lady - Single Version",
+      "artist": "The Temptations"
+    },
+    {
+      "song_name": "I Need Your Lovin'",
+      "artist": "Teena Marie"
+    },
+    {
+      "song_name": "Thighs High (Grip Your Hips and Move)",
+      "artist": "Tom Browne"
+    },
+    {
+      "song_name": "Do You Wanna Funk?",
+      "artist": "Patrick Cowley, Sylvester"
+    },
+    {
+      "song_name": "Relight My Fire - 12\" Disco Remix",
+      "artist": "Dan Hartman"
+    },
+    {
+      "song_name": "A Night To Remember",
+      "artist": "Shalamar"
+    },
+    {
+      "song_name": "Baby Be Mine",
+      "artist": "Michael Jackson"
+    },
+    {
+      "song_name": "High Hopes",
+      "artist": "The S.O.S Band"
+    },
+    {
+      "song_name": "Soup for One",
+      "artist": "CHIC"
+    },
+    {
+      "song_name": "Walking In Space",
+      "artist": "Galt MacDermot, Tom Pierson"
+    },
+    {
+      "song_name": "I Got The... - 2006 Remaster",
+      "artist": "Labi Siffre"
+    },
+    {
+      "song_name": "Spinnin'",
+      "artist": "Bernard Wright"
+    },
+    {
+      "song_name": "Adventures In the Land of Music",
+      "artist": "Dynasty"
+    },
+    {
+      "song_name": "A Little Bit Of Love",
+      "artist": "Brenda Russell"
+    },
+    {
+      "song_name": "(If It) Hurts Just a Little",
+      "artist": "Donna Summer"
+    },
+    {
+      "song_name": "On the Real Side",
+      "artist": "Larry Saunders"
+    },
+    {
+      "song_name": "The Edge - Remastered",
+      "artist": "David McCallum"
+    },
+    {
+      "song_name": "Sun Goddess (feat. Ramsey Lewis)",
+      "artist": "Earth, Wind & Fire, Ramsey Lewis"
+    },
+    {
+      "song_name": "Wildflower",
+      "artist": "Hank Crawford"
+    },
+    {
+      "song_name": "A New Day (is Here at Last)",
+      "artist": "JC Davis"
+    },
+    {
+      "song_name": "Are You My Woman? (Tell Me So)",
+      "artist": "The Chi-Lites"
+    },
+    {
+      "song_name": "Ready or Not Here I Come",
+      "artist": "The Delfonics"
+    },
+    {
+      "song_name": "Arrow Through Me - Remastered 1993",
+      "artist": "Wings"
+    },
+    {
+      "song_name": "Footsteps in the Dark, Pts. 1 & 2",
+      "artist": "The Isley Brothers"
+    },
+    {
+      "song_name": "Grandma's Hands",
+      "artist": "Bill Withers"
+    },
+    {
+      "song_name": "Private Number",
+      "artist": "William Bell, Judy Clay"
+    },
+    {
+      "song_name": "Free And Easy",
+      "artist": "The Dells"
+    },
+    {
+      "song_name": "Why Can't We Live Together",
+      "artist": "Timmy Thomas"
+    },
+    {
+      "song_name": "Aht Uh Mi Hed",
+      "artist": "Shuggie Otis"
+    },
+    {
+      "song_name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "artist": "William DeVaughn"
+    },
+    {
+      "song_name": "Don't Push It Don't Force It",
+      "artist": "Leon Haywood"
+    },
+    {
+      "song_name": "Early In The Morning - 12\" Version",
+      "artist": "The Gap Band"
+    },
+    {
+      "song_name": "West Coast Poplock",
+      "artist": "Ronnie Hudson"
+    },
+    {
+      "song_name": "Comin' Apart",
+      "artist": "Gary Wright"
+    },
+    {
+      "song_name": "Dance With You",
+      "artist": "Carrie Lucas"
+    },
+    {
+      "song_name": "Nice and Nasty",
+      "artist": "The Salsoul Orchestra"
+    },
+    {
+      "song_name": "Enjoy Your Life",
+      "artist": "Oby Onyioha"
+    },
+    {
+      "song_name": "Love Action (with Brenda Fassie)",
+      "artist": "Brenda & The Big Dudes"
+    },
+    {
+      "song_name": "Going Back to My Roots",
+      "artist": "Lamont Dozier"
+    },
+    {
+      "song_name": "Black Magic (A Gira)",
+      "artist": "Astrud Gilberto"
+    },
+    {
+      "song_name": "Stand on the Word - 1982 Version",
+      "artist": "The Joubert Singers"
+    },
+    {
+      "song_name": "Give Me Your Love",
+      "artist": "Sisters Love"
+    }
+  ],
+  "Guilty Gear Strive + DLC ": [
+    {
+      "song_name": "Smell of the Game ( [New Guilty Gear] Promotion Music)",
+      "artist": "Daisuke Ishiwatari, Naoki Hashimoto, Arc System Works"
+    },
+    {
+      "song_name": "Find Your One Way",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "The Roar of the Spark",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "The Disaster of Passion",
+      "artist": "AISHA, Arc System Works"
+    },
+    {
+      "song_name": "Out of the Box",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Play the Hero",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Armor-clad Faith",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Alone Infection",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Love the Subhuman Self",
+      "artist": "AISHA, Jamison Boaz, Arc System Works"
+    },
+    {
+      "song_name": "Let Me Carve Your Way",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Necessary Discrepancy",
+      "artist": "AISHA, NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Hellfire",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "What do you fight for",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Trigger",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Rock Parade",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Requiem",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "The Kiss of Death",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Crawl",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Drift",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Mirror of the World",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Like a Weed, Naturally, as a Matter of Course",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Rock and Roll, Rock Hard Maniac",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Talk About You",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "The Name of Heaven",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Perfection Can't Please Me",
+      "artist": "AISHA, Arc System Works"
+    },
+    {
+      "song_name": "The Hourglass",
+      "artist": "Naoki Hashimoto, Arc System Works"
+    },
+    {
+      "song_name": "The Town Inside Me",
+      "artist": "AISHA, Arc System Works"
+    },
+    {
+      "song_name": "The Circle",
+      "artist": "Naoki Hashimoto, Arc System Works"
+    },
+    {
+      "song_name": "The Gravity",
+      "artist": "Naoki Hashimoto, Arc System Works"
+    },
+    {
+      "song_name": "Just Lean",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Extras",
+      "artist": "Molly Daisy Scarpine, Arc System Works"
+    },
+    {
+      "song_name": "Symphony",
+      "artist": "NAOKI, Arc System Works"
+    },
+    {
+      "song_name": "Ups and Downs",
+      "artist": "NAOKI, Arc System Works"
+    }
+  ],
+  "the guiltiest of pleasures": [
+    {
+      "song_name": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "song_name": "MMMBop",
+      "artist": "Hanson"
+    },
+    {
+      "song_name": "I Want It That Way",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Girlfriend",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "I Touch Myself",
+      "artist": "Divinyls"
+    },
+    {
+      "song_name": "Breathless",
+      "artist": "The Corrs"
+    },
+    {
+      "song_name": "Cotton Eye Joe",
+      "artist": "Rednex"
+    },
+    {
+      "song_name": "Thong Song",
+      "artist": "Sisqo"
+    },
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Pony",
+      "artist": "Ginuwine"
+    },
+    {
+      "song_name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "artist": "Eiffel 65, Gabry Ponte"
+    },
+    {
+      "song_name": "Truly Madly Deeply",
+      "artist": "Savage Garden"
+    },
+    {
+      "song_name": "Ice Ice Baby",
+      "artist": "Vanilla Ice"
+    },
+    {
+      "song_name": "I'm Too Sexy",
+      "artist": "Right Said Fred"
+    },
+    {
+      "song_name": "...Baby One More Time",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Who Let The Dogs Out",
+      "artist": "Baha Men"
+    },
+    {
+      "song_name": "Smooth (feat. Rob Thomas)",
+      "artist": "Santana, Rob Thomas"
+    },
+    {
+      "song_name": "Me So Horny",
+      "artist": "2 LIVE CREW"
+    },
+    {
+      "song_name": "Physical - Remastered 2021",
+      "artist": "Olivia Newton-John"
+    },
+    {
+      "song_name": "What Is Love - 7\" Mix",
+      "artist": "Haddaway"
+    },
+    {
+      "song_name": "To Be With You",
+      "artist": "Mr. Big"
+    },
+    {
+      "song_name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "Timber",
+      "artist": "Pitbull, Kesha"
+    },
+    {
+      "song_name": "Teenage Dream",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "I've Been Thinking About You",
+      "artist": "Londonbeat"
+    },
+    {
+      "song_name": "Black Magic",
+      "artist": "Little Mix"
+    },
+    {
+      "song_name": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys"
+    },
+    {
+      "song_name": "Sk8er Boi",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "I Want Candy",
+      "artist": "Aaron Carter"
+    },
+    {
+      "song_name": "How You Remind Me",
+      "artist": "Nickelback"
+    },
+    {
+      "song_name": "Break Stuff",
+      "artist": "Limp Bizkit"
+    },
+    {
+      "song_name": "The Sign",
+      "artist": "Ace of Base"
+    },
+    {
+      "song_name": "Livin' la Vida Loca",
+      "artist": "Ricky Martin"
+    },
+    {
+      "song_name": "Fergalicious",
+      "artist": "Fergie, will.i.am"
+    },
+    {
+      "song_name": "Rasputin",
+      "artist": "Boney M."
+    },
+    {
+      "song_name": "Burnin' Up",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "Back Here",
+      "artist": "BBMAK"
+    },
+    {
+      "song_name": "Barbie Girl",
+      "artist": "Aqua"
+    },
+    {
+      "song_name": "Higher",
+      "artist": "Creed"
+    },
+    {
+      "song_name": "Cry Me a River",
+      "artist": "Justin Timberlake"
+    },
+    {
+      "song_name": "Old Town Road - Remix",
+      "artist": "Lil Nas X, Billy Ray Cyrus"
+    },
+    {
+      "song_name": "I Wanna Have Some Fun",
+      "artist": "Samantha Fox"
+    },
+    {
+      "song_name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "The Bad Touch",
+      "artist": "Bloodhound Gang"
+    },
+    {
+      "song_name": "Nessaja",
+      "artist": "Scooter"
+    },
+    {
+      "song_name": "Afternoon Delight",
+      "artist": "Starland Vocal Band"
+    },
+    {
+      "song_name": "Pretty Fly (For A White Guy)",
+      "artist": "The Offspring"
+    },
+    {
+      "song_name": "Informer",
+      "artist": "Snow"
+    },
+    {
+      "song_name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA"
+    },
+    {
+      "song_name": "TiK ToK",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "Work from Home (feat. Ty Dolla $ign)",
+      "artist": "Fifth Harmony, Ty Dolla $ign"
+    },
+    {
+      "song_name": "I Really Like You",
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "song_name": "Party All the Time",
+      "artist": "Eddie Murphy"
+    },
+    {
+      "song_name": "Lovefool",
+      "artist": "The Cardigans"
+    },
+    {
+      "song_name": "Eye of the Tiger",
+      "artist": "Survivor"
+    },
+    {
+      "song_name": "Friday",
+      "artist": "Rebecca Black"
+    },
+    {
+      "song_name": "Pump Up The Jam",
+      "artist": "Technotronic"
+    },
+    {
+      "song_name": "Here I Go Again - 2018 Remaster",
+      "artist": "Whitesnake"
+    },
+    {
+      "song_name": "On the Way Down",
+      "artist": "Ryan Cabrera"
+    },
+    {
+      "song_name": "St. Elmos Fire (Man in Motion)",
+      "artist": "John Parr"
+    },
+    {
+      "song_name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "artist": "Meat Loaf"
+    },
+    {
+      "song_name": "This Kiss",
+      "artist": "Faith Hill"
+    },
+    {
+      "song_name": "Never Gonna Give You Up",
+      "artist": "Rick Astley"
+    },
+    {
+      "song_name": "Stacy's Mom",
+      "artist": "Fountains Of Wayne"
+    },
+    {
+      "song_name": "Shake It Off",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "artist": "Berlin"
+    },
+    {
+      "song_name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "artist": "Kenny Loggins"
+    },
+    {
+      "song_name": "Ignition - Remix",
+      "artist": "R. Kelly"
+    },
+    {
+      "song_name": "Macho Man",
+      "artist": "Village People"
+    },
+    {
+      "song_name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
+      "artist": "Murray Head"
+    },
+    {
+      "song_name": "Sister Christian",
+      "artist": "Night Ranger"
+    },
+    {
+      "song_name": "Never - From \"Footloose\" Soundtrack",
+      "artist": "Moving Pictures"
+    },
+    {
+      "song_name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "artist": "Deniece Williams"
+    },
+    {
+      "song_name": "Unwritten",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "Life is a Highway",
+      "artist": "Rascal Flatts"
+    },
+    {
+      "song_name": "Can't Fight This Feeling",
+      "artist": "REO Speedwagon"
+    },
+    {
+      "song_name": "The Safety Dance",
+      "artist": "Men Without Hats"
+    },
+    {
+      "song_name": "The One",
+      "artist": "Backstreet Boys"
+    },
+    {
+      "song_name": "Amazing",
+      "artist": "Aerosmith"
+    },
+    {
+      "song_name": "Penny & Me",
+      "artist": "Hanson"
+    },
+    {
+      "song_name": "Set Adrift On Memory Bliss",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "2 Legit 2 Quit",
+      "artist": "MC Hammer, Saja"
+    },
+    {
+      "song_name": "True",
+      "artist": "Spandau Ballet"
+    },
+    {
+      "song_name": "Miami",
+      "artist": "Will Smith"
+    },
+    {
+      "song_name": "Pour Some Sugar On Me",
+      "artist": "Def Leppard"
+    },
+    {
+      "song_name": "Downtown Venus",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "It's All Coming Back to Me Now",
+      "artist": "C\u00e9line Dion"
+    },
+    {
+      "song_name": "Round and Round",
+      "artist": "Ratt"
+    },
+    {
+      "song_name": "Hollaback Girl",
+      "artist": "Gwen Stefani"
+    },
+    {
+      "song_name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
+      "artist": "Kenny Loggins"
+    },
+    {
+      "song_name": "I Wanna Be Rich",
+      "artist": "Calloway"
+    },
+    {
+      "song_name": "Neon Moon",
+      "artist": "Brooks & Dunn"
+    },
+    {
+      "song_name": "Every Rose Has Its Thorn - 2003 Remaster",
+      "artist": "Poison"
+    },
+    {
+      "song_name": "Cherry Pie",
+      "artist": "Warrant"
+    },
+    {
+      "song_name": "Seventeen",
+      "artist": "Winger"
+    },
+    {
+      "song_name": "Crazy Crazy Nights",
+      "artist": "KISS"
+    },
+    {
+      "song_name": "Stars Are Blind",
+      "artist": "Paris Hilton"
+    },
+    {
+      "song_name": "Candy",
+      "artist": "Mandy Moore"
+    },
+    {
+      "song_name": "I Think We're Alone Now",
+      "artist": "Tiffany"
+    },
+    {
+      "song_name": "Making Love Out of Nothing at All",
+      "artist": "Air Supply"
+    }
+  ],
+  "150-160(ish) BPM Rap For Running": [
+    {
+      "song_name": "Swing",
+      "artist": "Savage, Soulja Boy"
+    },
+    {
+      "song_name": "Ray Bands",
+      "artist": "B.o.B"
+    },
+    {
+      "song_name": "Right Above It",
+      "artist": "Lil Wayne, Drake"
+    },
+    {
+      "song_name": "A Milli",
+      "artist": "Lil Wayne"
+    },
+    {
+      "song_name": "Pop Bottles - Main",
+      "artist": "Birdman, Lil Wayne"
+    },
+    {
+      "song_name": "Smile Back",
+      "artist": "Mac Miller"
+    },
+    {
+      "song_name": "HUMBLE.",
+      "artist": "Kendrick Lamar"
+    },
+    {
+      "song_name": "1000 Rounds",
+      "artist": "Ghostemane, Pouya"
+    },
+    {
+      "song_name": "Everyday",
+      "artist": "Logic, Marshmello"
+    },
+    {
+      "song_name": "Ballin",
+      "artist": "Logic"
+    },
+    {
+      "song_name": "r - Cali",
+      "artist": "A$AP Rocky"
+    },
+    {
+      "song_name": "Look At Me Now",
+      "artist": "Chris Brown, Lil Wayne, Busta Rhymes"
+    },
+    {
+      "song_name": "Werkin' Girls",
+      "artist": "Angel Haze"
+    },
+    {
+      "song_name": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "artist": "Jadakiss, Jeezy, Snyp Life, Da Bully, Boo Rossini, Blood Raw, AP"
+    },
+    {
+      "song_name": "Battle Cry",
+      "artist": "Angel Haze, Sia"
+    },
+    {
+      "song_name": "Come On A Cone",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "Lose My Mind",
+      "artist": "Jeezy, Plies"
+    },
+    {
+      "song_name": "MegaMan",
+      "artist": "Lil Wayne"
+    },
+    {
+      "song_name": "Push It",
+      "artist": "Rick Ross"
+    },
+    {
+      "song_name": "Blockbuster Night Part 1",
+      "artist": "Run The Jewels"
+    },
+    {
+      "song_name": "Job Well Done (feat. Until The Ribbon Breaks)",
+      "artist": "Run The Jewels, Until The Ribbon Breaks"
+    },
+    {
+      "song_name": "Yonkers",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "song_name": "I. The Party",
+      "artist": "Childish Gambino"
+    },
+    {
+      "song_name": "Core - Original Mix",
+      "artist": "RL Grime"
+    },
+    {
+      "song_name": "Murda",
+      "artist": "Slim Thug"
+    },
+    {
+      "song_name": "Magic Trick",
+      "artist": "Borgore, Juicy J"
+    },
+    {
+      "song_name": "Birthday Cake",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Christian Bale (feat. Casey Veggies, Knytro, Sway, KSI)",
+      "artist": "Yogi, Casey Veggies, Knytro, Sway, KSI"
+    },
+    {
+      "song_name": "Bricks (feat. Migos)",
+      "artist": "Carnage, Migos"
+    },
+    {
+      "song_name": "Ima Boss (feat. Rick Ross)",
+      "artist": "Meek Mill, Rick Ross"
+    },
+    {
+      "song_name": "Neva Gave A Fuck",
+      "artist": "Kid Ink"
+    },
+    {
+      "song_name": "Mean Demeanor",
+      "artist": "Run The Jewels"
+    },
+    {
+      "song_name": "Can't Tell Me Nothing",
+      "artist": "Kanye West"
+    },
+    {
+      "song_name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
+      "artist": "The Notorious B.I.G., Bone Thugs-N-Harmony"
+    },
+    {
+      "song_name": "Rap God",
+      "artist": "Eminem"
+    },
+    {
+      "song_name": "3 a.m.",
+      "artist": "Eminem"
+    },
+    {
+      "song_name": "Weapon (Bastille Vs. Angel Haze Vs. F*U*G*Z Vs. Braque)",
+      "artist": "Bastille, Angel Haze, F*U*G*Z, Braque"
+    },
+    {
+      "song_name": "Who Run It",
+      "artist": "Three 6 Mafia"
+    },
+    {
+      "song_name": "Backseat Freestyle",
+      "artist": "Kendrick Lamar"
+    },
+    {
+      "song_name": "The Rain (Supa Dupa Fly)",
+      "artist": "Missy Elliott"
+    },
+    {
+      "song_name": "m.A.A.d city",
+      "artist": "Kendrick Lamar, MC Eiht"
+    },
+    {
+      "song_name": "Cold",
+      "artist": "Rico Nasty, Kenny Beats"
+    },
+    {
+      "song_name": "Beamer, Benz, Or Bentley",
+      "artist": "Lloyd Banks, Juelz Santana"
+    },
+    {
+      "song_name": "White America",
+      "artist": "Eminem"
+    },
+    {
+      "song_name": "Hard in Da Paint",
+      "artist": "Waka Flocka Flame"
+    },
+    {
+      "song_name": "Go Get It",
+      "artist": "T.I."
+    },
+    {
+      "song_name": "Clique - Album Version (Edited)",
+      "artist": "Kanye West, JAY-Z, Big Sean"
+    },
+    {
+      "song_name": "So Sophisticated",
+      "artist": "Rick Ross, Meek Mill"
+    },
+    {
+      "song_name": "Movin' Bass - GTA Remix",
+      "artist": "Rick Ross, JAY-Z"
+    },
+    {
+      "song_name": "I'm A Boss",
+      "artist": "DJ Hotday, Meek Mill, Rick Rose"
+    },
+    {
+      "song_name": "Burial (feat. Pusha T)",
+      "artist": "Yogi, Pusha T"
+    },
+    {
+      "song_name": "Warning Shot",
+      "artist": "mgk, Cassie"
+    },
+    {
+      "song_name": "Bonfire",
+      "artist": "Childish Gambino"
+    },
+    {
+      "song_name": "IV. Sweatpants",
+      "artist": "Childish Gambino"
+    },
+    {
+      "song_name": "Up",
+      "artist": "Cardi B"
+    },
+    {
+      "song_name": "Bickenhead",
+      "artist": "Cardi B"
+    },
+    {
+      "song_name": "Drop It",
+      "artist": "Angel Haze"
+    },
+    {
+      "song_name": "She Knows This",
+      "artist": "Kid Cudi"
+    },
+    {
+      "song_name": "Tomboy",
+      "artist": "Princess Nokia"
+    },
+    {
+      "song_name": "Harley Quinn",
+      "artist": "Princess Nokia"
+    },
+    {
+      "song_name": "Cakewalk",
+      "artist": "Awkwafina"
+    },
+    {
+      "song_name": "Decline Him",
+      "artist": "Quay Dash"
+    },
+    {
+      "song_name": "Doin Too Much",
+      "artist": "Kash Doll"
+    },
+    {
+      "song_name": "WAP (feat. Megan Thee Stallion)",
+      "artist": "Cardi B, Megan Thee Stallion"
+    },
+    {
+      "song_name": "Savage",
+      "artist": "Megan Thee Stallion"
+    },
+    {
+      "song_name": "Captain Hook",
+      "artist": "Megan Thee Stallion"
+    },
+    {
+      "song_name": "SKATE",
+      "artist": "BIA"
+    },
+    {
+      "song_name": "Discounts",
+      "artist": "cupcakKe"
+    },
+    {
+      "song_name": "19",
+      "artist": "Deetranada"
+    },
+    {
+      "song_name": "Like That Bitch",
+      "artist": "Flo Milli"
+    },
+    {
+      "song_name": "Rumours",
+      "artist": "Ivorian Doll"
+    },
+    {
+      "song_name": "OHFR?",
+      "artist": "Rico Nasty"
+    },
+    {
+      "song_name": "POWER",
+      "artist": "Kanye West"
+    },
+    {
+      "song_name": "Gotta Have It",
+      "artist": "JAY-Z, Kanye West"
+    },
+    {
+      "song_name": "Heavy Crown",
+      "artist": "Iggy Azalea, Ellie Goulding"
+    },
+    {
+      "song_name": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande, Nicki Minaj"
+    },
+    {
+      "song_name": "Truth Hurts",
+      "artist": "Lizzo"
+    },
+    {
+      "song_name": "Real Bitch Anthem",
+      "artist": "Asian Doll"
+    },
+    {
+      "song_name": "SKATE",
+      "artist": "BIA"
+    },
+    {
+      "song_name": "BIA BIA (feat. Lil Jon)",
+      "artist": "BIA, Lil Jon"
+    },
+    {
+      "song_name": "Bia' Bia' - Remix",
+      "artist": "Lil Jon & The East Side Boyz"
+    },
+    {
+      "song_name": "Up",
+      "artist": "Cardi B"
+    },
+    {
+      "song_name": "Never Seen",
+      "artist": "Angel Haze"
+    },
+    {
+      "song_name": "Zoom",
+      "artist": "Leikeli47"
+    },
+    {
+      "song_name": "Who's That Brown",
+      "artist": "Das Racist, Heems"
+    },
+    {
+      "song_name": "Close Your Eyes (And Count to Fuck)",
+      "artist": "Run The Jewels, El-P, Killer Mike, Zack De La Rocha"
+    },
+    {
+      "song_name": "Blockbuster Night, Pt. 1",
+      "artist": "Run The Jewels, El-P, Killer Mike"
+    },
+    {
+      "song_name": "Run the Jewels",
+      "artist": "Run The Jewels"
+    },
+    {
+      "song_name": "Such a Whore (Stellular Remix)",
+      "artist": "JVLA"
+    },
+    {
+      "song_name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "artist": "NAV, Lil Baby, Travis Scott"
+    },
+    {
+      "song_name": "2 Mins of Pain (feat. Alborosie)",
+      "artist": "Sleepy Hallow, Alborosie"
+    },
+    {
+      "song_name": "WAITRESS",
+      "artist": "DaBaby"
+    },
+    {
+      "song_name": "Hot Shit (feat. Ye & Lil Durk)",
+      "artist": "Cardi B, Kanye West, Lil Durk"
+    },
+    {
+      "song_name": "STUPID (feat. Yung Baby Tate)",
+      "artist": "Ashnikko, Baby Tate"
+    },
+    {
+      "song_name": "Started",
+      "artist": "Iggy Azalea"
+    },
+    {
+      "song_name": "Level Up",
+      "artist": "Ciara"
+    },
+    {
+      "song_name": "M.I.L.F. $",
+      "artist": "Fergie"
+    },
+    {
+      "song_name": "Da Power",
+      "artist": "Juicy J, Wiz Khalifa, Tm88"
+    },
+    {
+      "song_name": "Sarcophagus",
+      "artist": "$uicideboy$, Ramirez"
+    },
+    {
+      "song_name": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem, Juice WRLD"
+    }
+  ],
+  "Guilty Pleasure Radio": [
+    {
+      "song_name": "The City Is at War",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "The Curse of Curves",
+      "artist": "Cute Is What We Aim For"
+    },
+    {
+      "song_name": "About a Girl",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "Grand Theft Autumn / Where Is Your Boy",
+      "artist": "Fall Out Boy"
+    },
+    {
+      "song_name": "Love Drunk",
+      "artist": "BOYS LIKE GIRLS"
+    },
+    {
+      "song_name": "Bring It (Snakes on a Plane)",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "IMNOTYOURBOYFRIENDBABY",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Practice Makes Perfect",
+      "artist": "Cute Is What We Aim For"
+    },
+    {
+      "song_name": "Slow Down",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
+      "artist": "Fall Out Boy"
+    },
+    {
+      "song_name": "Guilty Pleasure",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "How You Love Me Now",
+      "artist": "Hey Monday"
+    },
+    {
+      "song_name": "DONTTRUSTME",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "There's a Class for This",
+      "artist": "Cute Is What We Aim For"
+    },
+    {
+      "song_name": "The Phrase That Pays",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "Hot Mess",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "Here (In Your Arms) - Radio Edit",
+      "artist": "Hellogoodbye"
+    },
+    {
+      "song_name": "Homecoming",
+      "artist": "Hey Monday"
+    },
+    {
+      "song_name": "Double Vision",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Newport Living",
+      "artist": "Cute Is What We Aim For"
+    },
+    {
+      "song_name": "Kiss My Sass (feat. Travis McCoy of Gym Class)",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "We've Got a Big Mess on Our Hands",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "One Of THOSE Nights",
+      "artist": "The Cab"
+    },
+    {
+      "song_name": "Love Like Woe",
+      "artist": "The Ready Set"
+    },
+    {
+      "song_name": "COLORADOSUNRISE",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Pete Wentz Is the Only Reason We're Famous",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "Navigate Me",
+      "artist": "Cute Is What We Aim For"
+    },
+    {
+      "song_name": "Summer Hair = Forever Young",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "Almost",
+      "artist": "Bowling For Soup"
+    },
+    {
+      "song_name": "But It's Better If You Do",
+      "artist": "Panic! At The Disco"
+    },
+    {
+      "song_name": "Send My Love to the Dance Floor I'll See You in Hell (Hey Mister DJ)",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "STARSTRUKK",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Five Minutes to Midnight",
+      "artist": "BOYS LIKE GIRLS"
+    },
+    {
+      "song_name": "Skeptics and True Believers",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "Candle (Sick And Tired)",
+      "artist": "The White Tie Affair"
+    },
+    {
+      "song_name": "Damn You Look Good and I'm Drunk (Scandalous) [feat. V.I.P.]",
+      "artist": "Cobra Starship, V.I.P."
+    },
+    {
+      "song_name": "Touchdown Turnaround (Don't Give Up On Me)",
+      "artist": "Hellogoodbye"
+    },
+    {
+      "song_name": "ICANTDOITALONE",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Punk Rock Princess",
+      "artist": "Something Corporate"
+    },
+    {
+      "song_name": "Down and Out",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "You're Not in on the Joke",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "Heels Over Head - Tom Lord-Alge Mix",
+      "artist": "BOYS LIKE GIRLS"
+    },
+    {
+      "song_name": "All Of Your Love",
+      "artist": "Hellogoodbye"
+    },
+    {
+      "song_name": "PUNKBITCH",
+      "artist": "3OH!3"
+    },
+    {
+      "song_name": "Liar (It Takes One To Know One)",
+      "artist": "Taking Back Sunday"
+    },
+    {
+      "song_name": "Smile for the Paparazzi",
+      "artist": "Cobra Starship"
+    },
+    {
+      "song_name": "Attention",
+      "artist": "The Academy Is..."
+    },
+    {
+      "song_name": "Hero / Heroine - Tom Lord-Alge Mix",
+      "artist": "BOYS LIKE GIRLS"
+    },
+    {
+      "song_name": "Dark Blue - 2015 Remastered",
+      "artist": "Jack's Mannequin"
+    },
+    {
+      "song_name": "D\u00e9j\u00e0 Vu",
+      "artist": "3OH!3"
+    }
+  ],
+  "Guilty pleasures \ud83d\udc83": [
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Beautiful Soul",
+      "artist": "Jesse McCartney"
+    },
+    {
+      "song_name": "One Less Lonely Girl",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "One Time",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Mean",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen"
+    },
+    {
+      "song_name": "I Kissed A Girl",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Oops!...I Did It Again",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Hollaback Girl",
+      "artist": "Gwen Stefani"
+    },
+    {
+      "song_name": "Toxic",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Pieces Of Me",
+      "artist": "Ashlee Simpson"
+    },
+    {
+      "song_name": "...Baby One More Time",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Come Clean",
+      "artist": "Hilary Duff"
+    },
+    {
+      "song_name": "Genie in a Bottle",
+      "artist": "Christina Aguilera"
+    },
+    {
+      "song_name": "Barbie Girl",
+      "artist": "Aqua"
+    },
+    {
+      "song_name": "Firework",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "TiK ToK",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "Poker Face",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Whistle",
+      "artist": "Flo Rida"
+    },
+    {
+      "song_name": "Starships",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "song_name": "The Lazy Song",
+      "artist": "Bruno Mars"
+    },
+    {
+      "song_name": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz"
+    },
+    {
+      "song_name": "Shake It Off",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "California Gurls",
+      "artist": "Katy Perry, Snoop Dogg"
+    },
+    {
+      "song_name": "Cooler Than Me - Single Mix",
+      "artist": "Mike Posner, Gigamesh"
+    },
+    {
+      "song_name": "Make It Shine (Victorious Theme) (feat. Victoria Justice)",
+      "artist": "Victorious Cast, Victoria Justice"
+    },
+    {
+      "song_name": "Hangover",
+      "artist": "Taio Cruz, Flo Rida"
+    },
+    {
+      "song_name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira, Wyclef Jean"
+    },
+    {
+      "song_name": "Single Ladies (Put a Ring on It)",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "Price Tag",
+      "artist": "Jessie J, B.o.B"
+    },
+    {
+      "song_name": "You Belong With Me",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Kiss You",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Live While We're Young",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Don't Stop The Music",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Hot N Cold",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Fuck You",
+      "artist": "Lily Allen"
+    },
+    {
+      "song_name": "Shower",
+      "artist": "Becky G"
+    },
+    {
+      "song_name": "Beautiful Girls - Radio Edit",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "What Makes You Beautiful",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Roar",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Temperature",
+      "artist": "Sean Paul"
+    },
+    {
+      "song_name": "The Sweet Escape",
+      "artist": "Gwen Stefani, Akon"
+    },
+    {
+      "song_name": "What the Hell",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Cups (Pitch Perfect\u2019s \u201cWhen I\u2019m Gone\u201d) - Pop Version",
+      "artist": "Anna Kendrick"
+    },
+    {
+      "song_name": "Heart Attack",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "Sex",
+      "artist": "I Oh You"
+    },
+    {
+      "song_name": "Happy",
+      "artist": "Pharrell Williams"
+    },
+    {
+      "song_name": "Evacuate The Dancefloor",
+      "artist": "Cascada"
+    },
+    {
+      "song_name": "Hollaback Girl",
+      "artist": "Gwen Stefani"
+    },
+    {
+      "song_name": "All About That Bass",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "song_name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "artist": "Idina Menzel"
+    },
+    {
+      "song_name": "Wiggle (feat. Snoop Dogg)",
+      "artist": "Jason Derulo, Snoop Dogg"
+    },
+    {
+      "song_name": "Good Feeling",
+      "artist": "Flo Rida"
+    },
+    {
+      "song_name": "My House",
+      "artist": "Flo Rida"
+    },
+    {
+      "song_name": "Blank Space",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "I Knew You Were Trouble",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Bad Romance",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Paparazzi",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande, Nicki Minaj"
+    },
+    {
+      "song_name": "Problem",
+      "artist": "Ariana Grande, Iggy Azalea"
+    },
+    {
+      "song_name": "Just Dance",
+      "artist": "Lady Gaga, Colby O'Donis"
+    },
+    {
+      "song_name": "Lips Are Movin",
+      "artist": "Meghan Trainor"
+    },
+    {
+      "song_name": "One Way or Another (Teenage Kicks)",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Rock DJ",
+      "artist": "Robbie Williams"
+    },
+    {
+      "song_name": "Boyfriend",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Love Me",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "I Don't Feel Like Dancin' - Radio Edit",
+      "artist": "Scissor Sisters"
+    },
+    {
+      "song_name": "Sorry For Party Rocking",
+      "artist": "LMFAO"
+    },
+    {
+      "song_name": "Never Say Never",
+      "artist": "Justin Bieber, Jaden"
+    },
+    {
+      "song_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "artist": "Maroon 5, Christina Aguilera"
+    },
+    {
+      "song_name": "Club Can't Handle Me (feat. David Guetta)",
+      "artist": "Flo Rida, David Guetta"
+    },
+    {
+      "song_name": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson, Bruno Mars"
+    },
+    {
+      "song_name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj"
+    },
+    {
+      "song_name": "One Thing",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Best Song Ever",
+      "artist": "One Direction"
+    },
+    {
+      "song_name": "Beautiful Girls",
+      "artist": "Sean Kingston"
+    },
+    {
+      "song_name": "Good Night",
+      "artist": "Reece Mastin"
+    },
+    {
+      "song_name": "Shut Up & Kiss Me",
+      "artist": "Reece Mastin"
+    },
+    {
+      "song_name": "Rock$tar",
+      "artist": "Reece Mastin"
+    },
+    {
+      "song_name": "Shout It Out",
+      "artist": "Reece Mastin"
+    },
+    {
+      "song_name": "Baby",
+      "artist": "Justin Bieber, Ludacris"
+    },
+    {
+      "song_name": "Who Says",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "Somebody To Love",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Ready or Not",
+      "artist": "Bridgit Mendler"
+    },
+    {
+      "song_name": "Love You Like A Love Song",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "U Smile",
+      "artist": "Justin Bieber"
+    },
+    {
+      "song_name": "Eenie Meenie",
+      "artist": "Sean Kingston, Justin Bieber"
+    },
+    {
+      "song_name": "Like It Like That",
+      "artist": "Guy Sebastian"
+    },
+    {
+      "song_name": "Naturally",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "Year 3000",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "Introducing Me - From \"Camp Rock 2: The Final Jam\"",
+      "artist": "Nick Jonas"
+    },
+    {
+      "song_name": "7 Things - Single Version",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "artist": "Hannah Montana"
+    },
+    {
+      "song_name": "Die Young",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "Magic (feat. Rivers Cuomo)",
+      "artist": "B.o.B, Rivers Cuomo"
+    },
+    {
+      "song_name": "Your Love Is My Drug",
+      "artist": "Kesha"
+    },
+    {
+      "song_name": "La La Land",
+      "artist": "Demi Lovato"
+    },
+    {
+      "song_name": "Kiss Me Thru The Phone",
+      "artist": "Soulja Boy, Sammie"
+    }
+  ],
+  "2000s Guilty Pleasures": [
+    {
+      "song_name": "Complicated",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "I'm Like A Bird",
+      "artist": "Nelly Furtado"
+    },
+    {
+      "song_name": "A Thousand Miles",
+      "artist": "Vanessa Carlton"
+    },
+    {
+      "song_name": "Since U Been Gone",
+      "artist": "Kelly Clarkson"
+    },
+    {
+      "song_name": "Crazy In Love (feat. Jay-Z)",
+      "artist": "Beyonc\u00e9, JAY-Z"
+    },
+    {
+      "song_name": "Umbrella",
+      "artist": "Rihanna, JAY-Z"
+    },
+    {
+      "song_name": "Love Story",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "If I Ain't Got You",
+      "artist": "Alicia Keys"
+    },
+    {
+      "song_name": "Sk8er Boi",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Misery Business",
+      "artist": "Paramore"
+    },
+    {
+      "song_name": "Too Little Too Late - 2018",
+      "artist": "JoJo"
+    },
+    {
+      "song_name": "Can't Fight The Moonlight",
+      "artist": "LeAnn Rimes"
+    },
+    {
+      "song_name": "All You Wanted",
+      "artist": "Michelle Branch"
+    },
+    {
+      "song_name": "Come Clean",
+      "artist": "Hilary Duff"
+    },
+    {
+      "song_name": "Irreplaceable",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "Fergalicious",
+      "artist": "Fergie, will.i.am"
+    },
+    {
+      "song_name": "You Belong With Me",
+      "artist": "Taylor Swift"
+    },
+    {
+      "song_name": "Love Song",
+      "artist": "Sara Bareilles"
+    },
+    {
+      "song_name": "Leave (Get Out) - 2018",
+      "artist": "JoJo"
+    },
+    {
+      "song_name": "We Belong Together",
+      "artist": "Mariah Carey"
+    },
+    {
+      "song_name": "Just Like a Pill",
+      "artist": "P!nk"
+    },
+    {
+      "song_name": "My Happy Ending",
+      "artist": "Avril Lavigne"
+    },
+    {
+      "song_name": "Back To Black",
+      "artist": "Amy Winehouse"
+    },
+    {
+      "song_name": "7 Things - Single Version",
+      "artist": "Miley Cyrus"
+    },
+    {
+      "song_name": "So Yesterday",
+      "artist": "Hilary Duff"
+    },
+    {
+      "song_name": "Cool",
+      "artist": "Gwen Stefani"
+    },
+    {
+      "song_name": "Big Girls Don't Cry (Personal)",
+      "artist": "Fergie"
+    },
+    {
+      "song_name": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake, Timbaland"
+    },
+    {
+      "song_name": "What Goes Around.../...Comes Around (Interlude)",
+      "artist": "Justin Timberlake"
+    },
+    {
+      "song_name": "Thnks fr th Mmrs",
+      "artist": "Fall Out Boy"
+    },
+    {
+      "song_name": "This Ain't A Scene, It's An Arms Race",
+      "artist": "Fall Out Boy"
+    },
+    {
+      "song_name": "Welcome to the Black Parade",
+      "artist": "My Chemical Romance"
+    },
+    {
+      "song_name": "Beautiful Liar",
+      "artist": "Beyonc\u00e9, Shakira"
+    },
+    {
+      "song_name": "Shut Up And Drive",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Sugar, We're Goin Down",
+      "artist": "Fall Out Boy"
+    },
+    {
+      "song_name": "Wake Me up When September Ends",
+      "artist": "Green Day"
+    },
+    {
+      "song_name": "Hey Ya!",
+      "artist": "Outkast"
+    },
+    {
+      "song_name": "Gimme More",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Unfaithful",
+      "artist": "Rihanna"
+    },
+    {
+      "song_name": "Lose Yourself - Soundtrack Version",
+      "artist": "Eminem"
+    },
+    {
+      "song_name": "Stickwitu",
+      "artist": "The Pussycat Dolls"
+    },
+    {
+      "song_name": "Bring Me To Life",
+      "artist": "Evanescence"
+    },
+    {
+      "song_name": "Rolling In The Deep",
+      "artist": "Adele"
+    },
+    {
+      "song_name": "Who Says",
+      "artist": "Selena Gomez & The Scene"
+    },
+    {
+      "song_name": "Love Drunk",
+      "artist": "BOYS LIKE GIRLS"
+    },
+    {
+      "song_name": "Poker Face",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Alejandro",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Bad Romance",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Telephone",
+      "artist": "Lady Gaga, Beyonc\u00e9"
+    },
+    {
+      "song_name": "Paparazzi",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "Boys Boys Boys",
+      "artist": "Lady Gaga"
+    },
+    {
+      "song_name": "I Gotta Feeling",
+      "artist": "Black Eyed Peas"
+    },
+    {
+      "song_name": "Down",
+      "artist": "Jay Sean, Lil Wayne"
+    },
+    {
+      "song_name": "Hot N Cold",
+      "artist": "Katy Perry"
+    },
+    {
+      "song_name": "Halo",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "Diva",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "Circus",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Good Girls Go Bad (feat. Leighton Meester)",
+      "artist": "Cobra Starship, Leighton Meester"
+    },
+    {
+      "song_name": "So What",
+      "artist": "P!nk"
+    },
+    {
+      "song_name": "If U Seek Amy",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "3",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Buttons",
+      "artist": "The Pussycat Dolls"
+    },
+    {
+      "song_name": "When I Grow Up",
+      "artist": "The Pussycat Dolls"
+    },
+    {
+      "song_name": "Low (feat. T-Pain)",
+      "artist": "Flo Rida, T-Pain"
+    },
+    {
+      "song_name": "With You",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "Forever",
+      "artist": "Chris Brown"
+    },
+    {
+      "song_name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield"
+    },
+    {
+      "song_name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "artist": "Madonna, Justin Timberlake, Timbaland"
+    },
+    {
+      "song_name": "Piece of Me",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna"
+    },
+    {
+      "song_name": "Whatcha Say",
+      "artist": "Jason Derulo"
+    },
+    {
+      "song_name": "1, 2 Step (feat. Missy Elliott)",
+      "artist": "Ciara, Missy Elliott"
+    },
+    {
+      "song_name": "Cowboy Take Me Away",
+      "artist": "The Chicks"
+    },
+    {
+      "song_name": "Before He Cheats",
+      "artist": "Carrie Underwood"
+    },
+    {
+      "song_name": "Live Like You Were Dying",
+      "artist": "Tim McGraw"
+    },
+    {
+      "song_name": "Jesus, Take the Wheel",
+      "artist": "Carrie Underwood"
+    },
+    {
+      "song_name": "Big Green Tractor",
+      "artist": "Jason Aldean"
+    },
+    {
+      "song_name": "I Like It, I Love It",
+      "artist": "Tim McGraw"
+    },
+    {
+      "song_name": "What Hurts The Most",
+      "artist": "Rascal Flatts"
+    },
+    {
+      "song_name": "Save a Horse (Ride a Cowboy)",
+      "artist": "Big & Rich"
+    },
+    {
+      "song_name": "Need You Now",
+      "artist": "Lady A"
+    },
+    {
+      "song_name": "Chicken Fried",
+      "artist": "Zac Brown Band"
+    },
+    {
+      "song_name": "Life is a Highway",
+      "artist": "Rascal Flatts"
+    },
+    {
+      "song_name": "Burnin' Up",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "S.O.S.",
+      "artist": "Jonas Brothers"
+    },
+    {
+      "song_name": "(You Drive Me) Crazy",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "...Baby One More Time",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Oops!...I Did It Again",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Stronger",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Lucky",
+      "artist": "Britney Spears"
+    },
+    {
+      "song_name": "Whataya Want from Me",
+      "artist": "Adam Lambert"
+    },
+    {
+      "song_name": "Single Ladies (Put a Ring on It)",
+      "artist": "Beyonc\u00e9"
+    },
+    {
+      "song_name": "She Will Be Loved",
+      "artist": "Maroon 5"
+    },
+    {
+      "song_name": "Bye Bye Bye",
+      "artist": "*NSYNC"
+    },
+    {
+      "song_name": "I Write Sins Not Tragedies",
+      "artist": "Panic! At The Disco"
+    },
+    {
+      "song_name": "Who Knew",
+      "artist": "P!nk"
+    },
+    {
+      "song_name": "Dancing On My Own - Radio Edit",
+      "artist": "Robyn"
+    },
+    {
+      "song_name": "Whenever, Wherever",
+      "artist": "Shakira"
+    },
+    {
+      "song_name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira, Wyclef Jean"
+    }
+  ],
+  "my embarrassing guilty pleasure songs": [
+    {
+      "song_name": "I Won't Say (I'm In Love)",
+      "artist": "Susan Egan, Cheryl Freeman, LaChanze, Vaneese Thomas, Lillias White, Disney"
+    },
+    {
+      "song_name": "Get Back Up Again",
+      "artist": "Anna Kendrick"
+    },
+    {
+      "song_name": "Did I Mention",
+      "artist": "Jeff Lewis, Mitchell Hope, Disney"
+    },
+    {
+      "song_name": "A Cover Is Not the Book",
+      "artist": "Emily Blunt, Lin-Manuel Miranda, Company - Mary Poppins Returns"
+    },
+    {
+      "song_name": "Someday",
+      "artist": "Milo Manheim, Meg Donnelly, ZOMBIES \u2013 Cast, Disney"
+    },
+    {
+      "song_name": "Wow (feat. Savannah Lee May)",
+      "artist": "Julie and the Phantoms Cast, Savannah Lee May"
+    },
+    {
+      "song_name": "Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
+      "artist": "Julie and the Phantoms Cast, Madison Reyes, Charlie Gillespie, Owen Patrick Joyner, Jeremy Shada"
+    },
+    {
+      "song_name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
+      "artist": "The Barden Bellas, The Treblemakers, The Bu Harmonics"
+    },
+    {
+      "song_name": "Smooth Criminal (Glee Cast Version) (feat. 2CELLOS)",
+      "artist": "Glee Cast, 2CELLOS"
+    },
+    {
+      "song_name": "Good Morning Baltimore",
+      "artist": "Nikki Blonsky, Motion Picture Cast of Hairspray"
+    },
+    {
+      "song_name": "Popular - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "artist": "Stephen Schwartz, Kristin Chenoweth, Stephen Oremus, Alex Lacamoire"
+    },
+    {
+      "song_name": "Kiss the Girl",
+      "artist": "Daveed Diggs, Awkwafina, Jacob Tremblay, Ensemble - The Little Mermaid, Disney"
+    },
+    {
+      "song_name": "Could Have Been Me",
+      "artist": "Halsey"
+    },
+    {
+      "song_name": "Strange Sight",
+      "artist": "KT Tunstall"
+    },
+    {
+      "song_name": "Wind in My Hair - From \"Tangled: Before Ever After\"",
+      "artist": "Rapunzel"
+    },
+    {
+      "song_name": "Into the Unknown",
+      "artist": "Idina Menzel, AURORA"
+    },
+    {
+      "song_name": "Prologue: Into the Woods",
+      "artist": "Company - Into the Woods (Motion Picture Cast)"
+    },
+    {
+      "song_name": "Lost in the Woods",
+      "artist": "Jonathan Groff"
+    },
+    {
+      "song_name": "Wild Uncharted Waters",
+      "artist": "Jonah Hauer-King"
+    },
+    {
+      "song_name": "Photograph",
+      "artist": "Jules LeBlanc"
+    },
+    {
+      "song_name": "Show Yourself",
+      "artist": "Idina Menzel, Evan Rachel Wood"
+    },
+    {
+      "song_name": "Reflection",
+      "artist": "Lea Salonga, Disney"
+    },
+    {
+      "song_name": "Colors of the Wind - From \"Pocahontas\"",
+      "artist": "Judy Kuhn"
+    },
+    {
+      "song_name": "Poor Unfortunate Souls",
+      "artist": "Melissa McCarthy"
+    },
+    {
+      "song_name": "Your Fault",
+      "artist": "Daniel Huttlestone, James Corden, Lilla Crawford, Meryl Streep, Anna Kendrick"
+    },
+    {
+      "song_name": "Don't Rain On My Parade - Cover of Barbra Streisand's Funny Girl",
+      "artist": "Glee Cast"
+    },
+    {
+      "song_name": "Hasta La Vista",
+      "artist": "Jordan Francis, Roshon Bernard Fegan"
+    },
+    {
+      "song_name": "Girl in the Mirror (feat. Silento)",
+      "artist": "Sophia Grace, Silent\u00f3"
+    },
+    {
+      "song_name": "It's a Girl Party",
+      "artist": "Mackz"
+    },
+    {
+      "song_name": "Do-Re-Mi",
+      "artist": "Julie Andrews, Nicholas Hammond, Debbie Turner, Duane Chase, Heather Menzies, Angela Cartwright, Kym Karath, Charmian Carr"
+    },
+    {
+      "song_name": "Who's the (Bat)Man",
+      "artist": "Patrick Stump"
+    }
+  ],
+  "90's GUILTY PLEASURES": [
+    {
+      "song_name": "Set Adrift On Memory Bliss",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "Return To Innocence",
+      "artist": "Enigma"
+    },
+    {
+      "song_name": "Return of the Mack",
+      "artist": "Mark Morrison"
+    },
+    {
+      "song_name": "Regulate",
+      "artist": "Warren G, Nate Dogg"
+    },
+    {
+      "song_name": "This Is How We Do It",
+      "artist": "Montell Jordan, Wino"
+    },
+    {
+      "song_name": "Sweet Lullaby",
+      "artist": "Deep Forest"
+    },
+    {
+      "song_name": "The Sign",
+      "artist": "Ace of Base"
+    },
+    {
+      "song_name": "What Is Love - Single Mix",
+      "artist": "Haddaway"
+    },
+    {
+      "song_name": "The Most Beautiful Girl In the World",
+      "artist": "Prince"
+    },
+    {
+      "song_name": "Creep",
+      "artist": "TLC"
+    },
+    {
+      "song_name": "Here Comes the Hotstepper - Heartical Mix",
+      "artist": "iNi Kamoze, Salaam Remi"
+    },
+    {
+      "song_name": "I Believe",
+      "artist": "Blessid Union Of Souls, David Kershenbaum"
+    },
+    {
+      "song_name": "One Of Us - Short Version",
+      "artist": "Joan Osborne"
+    },
+    {
+      "song_name": "Connected",
+      "artist": "Stereo MC's"
+    },
+    {
+      "song_name": "Informer",
+      "artist": "Snow"
+    },
+    {
+      "song_name": "Whoomp! (There It Is)",
+      "artist": "Tag Team"
+    },
+    {
+      "song_name": "Freak Like Me",
+      "artist": "Adina Howard"
+    },
+    {
+      "song_name": "Breathe",
+      "artist": "The Prodigy"
+    },
+    {
+      "song_name": "Popular",
+      "artist": "Nada Surf"
+    },
+    {
+      "song_name": "Things That Make You Go Hmmmm.... (feat. Freedom Williams)",
+      "artist": "C & C Music Factory, Freedom Williams"
+    },
+    {
+      "song_name": "Nobody Knows",
+      "artist": "The Tony Rich Project"
+    },
+    {
+      "song_name": "I Know",
+      "artist": "Dionne Farris"
+    },
+    {
+      "song_name": "Candy Rain",
+      "artist": "Soul For Real"
+    },
+    {
+      "song_name": "Crossroads",
+      "artist": "Bone Thugs-N-Harmony"
+    },
+    {
+      "song_name": "Mr Wendal - Remastered 2002",
+      "artist": "Arrested Development"
+    },
+    {
+      "song_name": "Sadeness - Pt. 1 / Radio Edit",
+      "artist": "Enigma"
+    },
+    {
+      "song_name": "Live and Learn",
+      "artist": "Joe Public"
+    },
+    {
+      "song_name": "California Love - Original Version",
+      "artist": "2Pac, Roger, Dr. Dre"
+    },
+    {
+      "song_name": "The Ways Of The Wind",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "Tennessee - Remastered 2001",
+      "artist": "Arrested Development"
+    },
+    {
+      "song_name": "Always",
+      "artist": "Bon Jovi"
+    },
+    {
+      "song_name": "Ironic",
+      "artist": "Alanis Morissette"
+    },
+    {
+      "song_name": "Standing Outside a Broken Phone Booth with Money in My Hand",
+      "artist": "Primitive Radio Gods"
+    },
+    {
+      "song_name": "Shiny Happy People",
+      "artist": "R.E.M."
+    },
+    {
+      "song_name": "Pump Up The Jam",
+      "artist": "Technotronic"
+    },
+    {
+      "song_name": "Back & Forth",
+      "artist": "Aaliyah"
+    },
+    {
+      "song_name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "artist": "C & C Music Factory, Freedom Williams"
+    },
+    {
+      "song_name": "Looking Through Patient Eyes",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "Gin and Juice",
+      "artist": "Snoop Dogg"
+    },
+    {
+      "song_name": "This Used to Be My Playground",
+      "artist": "Madonna"
+    },
+    {
+      "song_name": "Human Nature",
+      "artist": "Madonna"
+    },
+    {
+      "song_name": "You Gotta Be",
+      "artist": "Des'ree"
+    },
+    {
+      "song_name": "Baby, I Love Your Way",
+      "artist": "Big Mountain"
+    },
+    {
+      "song_name": "Dreams",
+      "artist": "GABRIELLE"
+    },
+    {
+      "song_name": "Shoop",
+      "artist": "Salt-N-Pepa"
+    },
+    {
+      "song_name": "(I Can't Help) Falling In Love With You",
+      "artist": "UB40"
+    },
+    {
+      "song_name": "Waterfalls",
+      "artist": "TLC"
+    },
+    {
+      "song_name": "Whatta Man",
+      "artist": "Salt-N-Pepa, En Vogue"
+    },
+    {
+      "song_name": "More And More - Single Version",
+      "artist": "Captain Hollywood Project"
+    },
+    {
+      "song_name": "C'mon N' Ride It (The Train) - Radio Mix",
+      "artist": "Quad City DJ's"
+    },
+    {
+      "song_name": "Push It",
+      "artist": "Salt-N-Pepa"
+    },
+    {
+      "song_name": "Just Another Day",
+      "artist": "Jon Secada"
+    },
+    {
+      "song_name": "Don't Turn Around",
+      "artist": "Ace of Base"
+    },
+    {
+      "song_name": "Twisted",
+      "artist": "Keith Sweat"
+    },
+    {
+      "song_name": "Sweat (A La La La La Long)",
+      "artist": "Inner Circle"
+    },
+    {
+      "song_name": "Angel",
+      "artist": "Jon Secada"
+    },
+    {
+      "song_name": "Move This (Shake That Body)",
+      "artist": "Technotronic"
+    },
+    {
+      "song_name": "Get Up (Before The Night Is Over)",
+      "artist": "Technotronic"
+    },
+    {
+      "song_name": "Rhythm Is A Dancer - 12'' Version",
+      "artist": "SNAP!"
+    },
+    {
+      "song_name": "Strike It Up",
+      "artist": "Black Box"
+    },
+    {
+      "song_name": "All That She Wants",
+      "artist": "Ace of Base"
+    },
+    {
+      "song_name": "Tootsee Roll",
+      "artist": "69 Boyz"
+    },
+    {
+      "song_name": "Ditty",
+      "artist": "Paperboy"
+    },
+    {
+      "song_name": "My Lovin' (You're Never Gonna Get It)",
+      "artist": "En Vogue"
+    },
+    {
+      "song_name": "Shy Guy",
+      "artist": "Diana King"
+    },
+    {
+      "song_name": "The Rhythm of the Night",
+      "artist": "Corona"
+    },
+    {
+      "song_name": "Don't Take It Personal (Just One of Dem Days)",
+      "artist": "Monica"
+    },
+    {
+      "song_name": "Naked Eye",
+      "artist": "Luscious Jackson"
+    },
+    {
+      "song_name": "Wiggle It - Original Remake AIM Edit",
+      "artist": "2 In A Room"
+    },
+    {
+      "song_name": "I'm Gonna Get You - Original Remix Version",
+      "artist": "Bizarre Inc"
+    },
+    {
+      "song_name": "Back To Life",
+      "artist": "Soul II Soul, Caron Wheeler"
+    },
+    {
+      "song_name": "Finally",
+      "artist": "CeCe Peniston"
+    },
+    {
+      "song_name": "Don't Let Go (Love)",
+      "artist": "En Vogue"
+    },
+    {
+      "song_name": "That's The Way Love Goes",
+      "artist": "Janet Jackson"
+    },
+    {
+      "song_name": "Insensitive",
+      "artist": "Jann Arden"
+    },
+    {
+      "song_name": "If I Had No Loot",
+      "artist": "Tony! Toni! Ton\u00e9!"
+    },
+    {
+      "song_name": "Black or White - Single Version",
+      "artist": "Michael Jackson"
+    },
+    {
+      "song_name": "Here I Am (Come And Take Me)",
+      "artist": "UB40"
+    },
+    {
+      "song_name": "Red Red Wine",
+      "artist": "UB40"
+    },
+    {
+      "song_name": "Every Little Thing I Do",
+      "artist": "Soul For Real"
+    },
+    {
+      "song_name": "Rush Rush",
+      "artist": "Paula Abdul"
+    },
+    {
+      "song_name": "I'm Every Woman",
+      "artist": "Whitney Houston"
+    },
+    {
+      "song_name": "Close To You",
+      "artist": "Maxi Priest"
+    },
+    {
+      "song_name": "Pepper",
+      "artist": "Butthole Surfers"
+    },
+    {
+      "song_name": "Would I Lie To You?",
+      "artist": "Charles & Eddie"
+    },
+    {
+      "song_name": "Come Baby Come",
+      "artist": "K7"
+    },
+    {
+      "song_name": "2 Legit 2 Quit",
+      "artist": "MC Hammer, Saja"
+    },
+    {
+      "song_name": "If",
+      "artist": "Janet Jackson"
+    },
+    {
+      "song_name": "People Everyday",
+      "artist": "Arrested Development"
+    },
+    {
+      "song_name": "I Like The Way",
+      "artist": "Hi-Five"
+    },
+    {
+      "song_name": "Mr. Vain - Radio Edit",
+      "artist": "Culture Beat"
+    },
+    {
+      "song_name": "No Diggity",
+      "artist": "Blackstreet, Dr. Dre, Queen Pen"
+    },
+    {
+      "song_name": "Linger",
+      "artist": "The Cranberries"
+    },
+    {
+      "song_name": "Ode To My Family",
+      "artist": "The Cranberries"
+    },
+    {
+      "song_name": "I'd Die Without You",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "Back for Good - Radio Mix",
+      "artist": "Take That"
+    },
+    {
+      "song_name": "Paper Doll",
+      "artist": "P.M. Dawn"
+    },
+    {
+      "song_name": "Gangsta's Paradise (feat. L.V.)",
+      "artist": "Coolio, L.V."
+    },
+    {
+      "song_name": "Constant Craving - 2010 Remaster",
+      "artist": "k.d. lang"
+    },
+    {
+      "song_name": "Elevate My Mind",
+      "artist": "Stereo MC's"
+    }
+  ],
+  "guilty pleasures": [
+    {
+      "song_name": "racecar",
+      "artist": "Imani"
+    },
+    {
+      "song_name": "moment",
+      "artist": "Vierre Cloud"
+    },
+    {
+      "song_name": "One Night Only",
+      "artist": "Sonder"
+    },
+    {
+      "song_name": "belong to the city (sped up)",
+      "artist": "Dj GhettoYouth"
+    },
+    {
+      "song_name": "",
+      "artist": ""
+    },
+    {
+      "song_name": "What You Heard",
+      "artist": "Sonder"
+    },
+    {
+      "song_name": "Infrunami",
+      "artist": "Steve Lacy"
+    },
+    {
+      "song_name": "TBH",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Ballin'",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Girl With The Tattoo Enter.lewd",
+      "artist": "Miguel"
+    },
+    {
+      "song_name": "Sex on the Beach",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Nights",
+      "artist": "Frank Ocean"
+    },
+    {
+      "song_name": "Fuck The World (Summer in London)",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "song_name": "Godspeed",
+      "artist": "Frank Ocean"
+    },
+    {
+      "song_name": "Running on E",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "song_name": "Too Fast",
+      "artist": "Sonder"
+    },
+    {
+      "song_name": "Chanel",
+      "artist": "Frank Ocean"
+    },
+    {
+      "song_name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
+      "artist": "A$AP Ferg, Brent Faiyaz, Salaam Remi"
+    },
+    {
+      "song_name": "Down Bad",
+      "artist": "Erin Kaith"
+    },
+    {
+      "song_name": "Count on You",
+      "artist": "Tink"
+    },
+    {
+      "song_name": "Bria's Interlude (feat. Omarion)",
+      "artist": "Drake, Omarion"
+    },
+    {
+      "song_name": "Sorry Not Sorry",
+      "artist": "Bryson Tiller"
+    },
+    {
+      "song_name": "Jungle",
+      "artist": "Drake"
+    },
+    {
+      "song_name": "All I Want Is You (feat. J. Cole)",
+      "artist": "Miguel, J. Cole"
+    },
+    {
+      "song_name": "Crack Rock",
+      "artist": "Frank Ocean"
+    },
+    {
+      "song_name": "Let Me Explain",
+      "artist": "Bryson Tiller"
+    },
+    {
+      "song_name": "Care",
+      "artist": "Sonder"
+    },
+    {
+      "song_name": "Recognize (feat. Drake)",
+      "artist": "PARTYNEXTDOOR, Drake"
+    },
+    {
+      "song_name": "Speed",
+      "artist": "Kali Uchis"
+    },
+    {
+      "song_name": "Muse",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Bout It",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Make a Mil",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Nevermind This Interlude",
+      "artist": "Bryson Tiller"
+    },
+    {
+      "song_name": "Bad Gyal",
+      "artist": "TYuS"
+    },
+    {
+      "song_name": "Next To You",
+      "artist": "Bryson Tiller"
+    },
+    {
+      "song_name": "should've wore a bonnet",
+      "artist": "21 Savage, Brent Faiyaz"
+    },
+    {
+      "song_name": "prove it",
+      "artist": "21 Savage, Summer Walker"
+    },
+    {
+      "song_name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+      "artist": "Brent Faiyaz, N3WYRKLA, A$AP Rocky"
+    },
+    {
+      "song_name": "Been Away",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "song_name": "The Percocet & Stripper Joint",
+      "artist": "Future"
+    },
+    {
+      "song_name": "Practice",
+      "artist": "Drake"
+    },
+    {
+      "song_name": "PAIDNFULL",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "My Collection",
+      "artist": "Future"
+    },
+    {
+      "song_name": "R e s e n t m e n t",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Running Late",
+      "artist": "KARRAHBOOO"
+    },
+    {
+      "song_name": "Out My Way",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Fire & Desire",
+      "artist": "Drake"
+    },
+    {
+      "song_name": "Welcome to the Party",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "The Resistance",
+      "artist": "Drake"
+    },
+    {
+      "song_name": "Don't Run",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "THINGS & SUCH",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "Around Me",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "song_name": "LINK UP",
+      "artist": "Avenoir"
+    },
+    {
+      "song_name": "AFTER HOURS",
+      "artist": "Avenoir"
+    },
+    {
+      "song_name": "FAVORITE",
+      "artist": "Nobu Woods"
+    },
+    {
+      "song_name": "For However Long",
+      "artist": "Bryson Tiller"
+    },
+    {
+      "song_name": "Finesse (feat. Brysonn Tillerr)",
+      "artist": "Vonicon, brysonn tillerr"
+    },
+    {
+      "song_name": "How About Now Freestyle (feat. brysonn tillerr)",
+      "artist": "MemePump, brysonn tillerr"
+    },
+    {
+      "song_name": "Pink Matter",
+      "artist": "Frank Ocean, Andr\u00e9 3000"
+    },
+    {
+      "song_name": "Searchin",
+      "artist": "Sonder"
+    },
+    {
+      "song_name": "How Bout Now",
+      "artist": "Drake"
+    },
+    {
+      "song_name": "Sunset",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Still the Same",
+      "artist": "Autumn!"
+    },
+    {
+      "song_name": "I. Pink Toes",
+      "artist": "Childish Gambino, Jhen\u00e9 Aiko"
+    },
+    {
+      "song_name": "dont be afraid",
+      "artist": "Knxwledge"
+    },
+    {
+      "song_name": "Why Don't We Fall in Love",
+      "artist": "Amerie"
+    },
+    {
+      "song_name": "Charcoal Baby",
+      "artist": "Blood Orange"
+    },
+    {
+      "song_name": "Insecure",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "song_name": "I THINK",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "song_name": "Palace/Curse (feat. Tyler, The Creator & Steve Lacy)",
+      "artist": "The Internet, Tyler, The Creator, Steve Lacy"
+    },
+    {
+      "song_name": "Nangs",
+      "artist": "Tame Impala"
+    },
+    {
+      "song_name": "VCR",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "song_name": "World We Created",
+      "artist": "Giveon"
+    },
+    {
+      "song_name": "Treat Me Like Somebody",
+      "artist": "Tink"
+    },
+    {
+      "song_name": "Steeeam",
+      "artist": "Shelly"
+    },
+    {
+      "song_name": "Natural",
+      "artist": "Shelly"
+    },
+    {
+      "song_name": "Wicked Games",
+      "artist": "The Weeknd"
+    },
+    {
+      "song_name": "Diced Pineapples",
+      "artist": "Rick Ross, Wale, Drake"
+    },
+    {
+      "song_name": "Deja Vu",
+      "artist": "J. Cole"
+    },
+    {
+      "song_name": "Impatient",
+      "artist": "Jeremih, Ty Dolla $ign"
+    },
+    {
+      "song_name": "Grown Woman",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "song_name": "16 Mirrors",
+      "artist": "Alex G"
+    },
+    {
+      "song_name": "NIGHTS LIKE THIS",
+      "artist": "The Kid LAROI"
+    },
+    {
+      "song_name": "Trillions (feat. Brent Faiyaz)",
+      "artist": "Alicia Keys, Brent Faiyaz"
+    },
+    {
+      "song_name": "RIP",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake, Giveon"
+    },
+    {
+      "song_name": "Girls Need Love (with Drake) - Remix",
+      "artist": "Summer Walker, Drake"
+    },
+    {
+      "song_name": "Too Comfortable",
+      "artist": "Future"
+    },
+    {
+      "song_name": "All In",
+      "artist": "Earl Sweatshirt, LUCKI"
+    },
+    {
+      "song_name": "Don't You Love Me",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Peach Dream",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "F.U.N",
+      "artist": "Destroy Lonely"
+    },
+    {
+      "song_name": "Switchlanes",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "COINCIDENCE",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Distant",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "Me N My Kup",
+      "artist": "Ken Carson"
+    },
+    {
+      "song_name": "Randomly",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "4 The Betta",
+      "artist": "LUCKI"
+    },
+    {
+      "song_name": "First M",
+      "artist": "Slump6s"
+    },
+    {
+      "song_name": "Coppin Those",
+      "artist": "Rich Amiri"
+    }
+  ],
+  "Best of Chinese POP ": [
+    {
+      "song_name": "\u4f60\uff0c\u597d\u4e0d\u597d\uff1f - TVBS\u9023\u7e8c\u5287\u3010\u907a\u61be\u62fc\u5716\u3011\u7247\u5c3e\u66f2",
+      "artist": "Eric Chou"
+    },
+    {
+      "song_name": "\u5979\u8aaa",
+      "artist": "JJ Lin"
+    },
+    {
+      "song_name": "\u90a3\u4e9b\u5e74",
+      "artist": "Hu Xia"
+    },
+    {
+      "song_name": "\u5c0f\u5e78\u904b",
+      "artist": "Hebe Tien"
+    },
+    {
+      "song_name": "\u544a\u767d\u6c23\u7403",
+      "artist": "Jay Chou"
+    },
+    {
+      "song_name": "\u7ae5\u8a71",
+      "artist": "Michael Wong"
+    },
+    {
+      "song_name": "\u4f60\u4e0d\u77e5\u9053\u7684\u4e8b",
+      "artist": "Leehom Wang"
+    },
+    {
+      "song_name": "\u60c5\u975e\u5f97\u5df2",
+      "artist": "Harlem Yu"
+    },
+    {
+      "song_name": "\u8aaa\u6563\u5c31\u6563",
+      "artist": "JC \u9673\u8a60\u6850"
+    },
+    {
+      "song_name": "\u6ce1\u6cab",
+      "artist": "G.E.M."
+    },
+    {
+      "song_name": "\u7a81\u7136\u597d\u60f3\u4f60",
+      "artist": "Mayday"
+    },
+    {
+      "song_name": "\u4ee5\u5f8c\u5225\u505a\u670b\u53cb",
+      "artist": "Eric Chou"
+    },
+    {
+      "song_name": "\u4e0d\u70ba\u8ab0\u800c\u4f5c\u7684\u6b4c",
+      "artist": "JJ Lin"
+    },
+    {
+      "song_name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
+      "artist": "Joker Xue"
+    },
+    {
+      "song_name": "\u60f3\u4f60\u7684\u591c (\u672a\u7720\u7248)",
+      "artist": "Grady Guan"
+    },
+    {
+      "song_name": "\u9ad4\u9762(\u96fb\u5f71\u300a\u524d\u4efb3:\u518d\u898b\u524d\u4efb\u300b\u63d2\u66f2)",
+      "artist": "Kelly Yu"
+    },
+    {
+      "song_name": "\u4f9d\u7136\u611b\u4f60",
+      "artist": "Leehom Wang"
+    },
+    {
+      "song_name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
+      "artist": "A-Lin"
+    },
+    {
+      "song_name": "\u5b89\u975c",
+      "artist": "Jay Chou"
+    },
+    {
+      "song_name": "\u80cc\u53db",
+      "artist": "Gary Chaw"
+    },
+    {
+      "song_name": "\u53ef\u60dc\u6c92\u5982\u679c",
+      "artist": "JJ Lin"
+    },
+    {
+      "song_name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
+      "artist": "Eric Chou"
+    },
+    {
+      "song_name": "\u4e0d\u8a72 (with aMEI)",
+      "artist": "Jay Chou, A-Mei Chang"
+    },
+    {
+      "song_name": "\u5149\u5e74\u4e4b\u5916 (\u96fb\u5f71 \u300aPassengers\u300b \u4e2d\u570b\u5340\u4e3b\u984c\u66f2)",
+      "artist": "G.E.M."
+    },
+    {
+      "song_name": "\u6f14\u54e1",
+      "artist": "Joker Xue"
+    },
+    {
+      "song_name": "\u5f8c\u4f86\u7684\u6211\u5011",
+      "artist": "Mayday"
+    },
+    {
+      "song_name": "\u5341\u5e74",
+      "artist": "Eason Chan"
+    },
+    {
+      "song_name": "\u5929\u540e",
+      "artist": "Andrew Tan"
+    },
+    {
+      "song_name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
+      "artist": "A-Lin"
+    },
+    {
+      "song_name": "\u98c4\u5411\u5317\u65b9",
+      "artist": "Namewee, Leehom Wang"
+    },
+    {
+      "song_name": "\u4f60\u90a3\u9ebc\u611b\u5979",
+      "artist": "\u6797\u9686\u7487, Sam Lee"
+    },
+    {
+      "song_name": "\u4fee\u7149\u611b\u60c5",
+      "artist": "JJ Lin"
+    },
+    {
+      "song_name": "\u7b49\u4f60\u4e0b\u8ab2",
+      "artist": "Jay Chou, Gary Yang"
+    },
+    {
+      "song_name": "\u6f14\u54e1",
+      "artist": "Joker Xue"
+    },
+    {
+      "song_name": "\u600e\u9ebc\u4e86",
+      "artist": "Eric Chou"
+    },
+    {
+      "song_name": "\u518d\u898b",
+      "artist": "G.E.M."
+    },
+    {
+      "song_name": "\u5fc3\u8df3",
+      "artist": "Leehom Wang"
+    },
+    {
+      "song_name": "\u8ffd\u5149\u8005 - \u96fb\u8996\u5287\u590f\u81f3\u672a\u81f3\u63d2\u66f2",
+      "artist": "Yoyo Sham"
+    },
+    {
+      "song_name": "\u714e\u71ac",
+      "artist": "Jess Lee"
+    },
+    {
+      "song_name": "\u611b\u4f60",
+      "artist": "Kimberley Chen"
+    },
+    {
+      "song_name": "\u5931\u843d\u6c99\u6d32",
+      "artist": "LaLa Hsu"
+    },
+    {
+      "song_name": "\u4e11\u516b\u602a",
+      "artist": "Joker Xue"
+    },
+    {
+      "song_name": "\u6211\u61f7\u5ff5\u7684",
+      "artist": "Stefanie Sun"
+    },
+    {
+      "song_name": "\u53ef\u60dc\u4e0d\u662f\u4f60",
+      "artist": "Fish Leong"
+    },
+    {
+      "song_name": "\u6700\u8fd1",
+      "artist": "Sam Lee"
+    },
+    {
+      "song_name": "\u6211\u4e0d\u9858\u8b93\u4f60\u4e00\u500b\u4eba",
+      "artist": "Mayday"
+    },
+    {
+      "song_name": "\u6dd8\u6c70",
+      "artist": "Eason Chan"
+    },
+    {
+      "song_name": "\u611b\u6211\u5225\u8d70",
+      "artist": "Zhang Zhen Yue"
+    },
+    {
+      "song_name": "\u65b0\u4e0d\u4e86\u60c5",
+      "artist": "Jam Hsiao"
+    },
+    {
+      "song_name": "\u731c\u4e0d\u900f",
+      "artist": "Della"
+    },
+    {
+      "song_name": "\u6211\u4ee5\u70ba",
+      "artist": "Victor Wong"
+    },
+    {
+      "song_name": "\u8aaa\u8b0a",
+      "artist": "Yoga Lin"
+    },
+    {
+      "song_name": "\u5e74\u5c11\u6709\u70ba",
+      "artist": "Ronghao Li"
+    },
+    {
+      "song_name": "\u5fd8\u8a18\u64c1\u62b1 - \u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2",
+      "artist": "A-Lin"
+    },
+    {
+      "song_name": "\u4f60\u4e0d\u662f\u771f\u6b63\u7684\u5feb\u6a02",
+      "artist": "Mayday"
+    },
+    {
+      "song_name": "\u4f60\u8981\u7684\u5168\u62ff\u8d70",
+      "artist": "Tiger Hu"
+    },
+    {
+      "song_name": "\u8fc7\u5ba2",
+      "artist": "\u963f\u6db5"
+    },
+    {
+      "song_name": "\u4e0d\u5c07\u5c31 (\u96fb\u5f71\"\u4f55\u4ee5\u7b19\u7c2b\u9ed8\"\u7247\u5c3e\u66f2)",
+      "artist": "Ronghao Li"
+    },
+    {
+      "song_name": "\u6211\u611b\u4ed6",
+      "artist": "Della"
+    },
+    {
+      "song_name": "\u559c\u6b61\u4f60",
+      "artist": "G.E.M."
+    },
+    {
+      "song_name": "\u7562\u7adf\u6df1\u611b\u904e",
+      "artist": "Moon Chew"
+    },
+    {
+      "song_name": "\u53ef\u4e0d\u53ef\u4ee5 - \u6296\u97f3\u70ed\u6b4c",
+      "artist": "\u5f20\u7d2b\u8c6a"
+    },
+    {
+      "song_name": "\u611b, \u5f88\u7c21\u55ae",
+      "artist": "David Tao"
+    },
+    {
+      "song_name": "\u624b\u653e\u958b",
+      "artist": "Sam Lee"
+    },
+    {
+      "song_name": "\u6211\u5011\u7684\u611b",
+      "artist": "F.I.R."
+    },
+    {
+      "song_name": "\u6709\u70b9\u751c",
+      "artist": "Silence Wang, BY2"
+    },
+    {
+      "song_name": "\u9023\u540d\u5e36\u59d3",
+      "artist": "A-Mei Chang"
+    },
+    {
+      "song_name": "\u96e8\u611b",
+      "artist": "Rainie Yang"
+    },
+    {
+      "song_name": "\u6881\u5c71\u4f2f\u8207\u8331\u9e97\u8449",
+      "artist": "\u5353\u6587\u8431, Gary Chaw"
+    },
+    {
+      "song_name": "\u81f3\u5c11\u9084\u6709\u4f60",
+      "artist": "Sandy Lam"
+    },
+    {
+      "song_name": "\u4e0b\u96e8\u5929",
+      "artist": "Nan Quan Mama"
+    },
+    {
+      "song_name": "\u6703\u547c\u5438\u7684\u75db",
+      "artist": "Fish Leong"
+    },
+    {
+      "song_name": "\u51c9\u51c9",
+      "artist": "Aska Yang, Zhang Bichen"
+    },
+    {
+      "song_name": "\u4eba\u8cea",
+      "artist": "A-Mei Chang"
+    },
+    {
+      "song_name": "Unrequited",
+      "artist": "Yoga Lin"
+    },
+    {
+      "song_name": "\u9084\u662f\u8981\u5e78\u798f",
+      "artist": "Hebe Tien"
+    },
+    {
+      "song_name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "artist": "David Tao"
+    },
+    {
+      "song_name": "\u9047\u898b",
+      "artist": "Stefanie Sun"
+    },
+    {
+      "song_name": "\u6211\u9084\u662f\u611b\u8457\u4f60",
+      "artist": "Magic Power"
+    },
+    {
+      "song_name": "\u52c7\u6c23",
+      "artist": "Fish Leong"
+    },
+    {
+      "song_name": "\u5f53\u4f60\u5b64\u5355\u4f60\u4f1a\u60f3\u8d77\u8c01",
+      "artist": "Nicholas Teo"
+    },
+    {
+      "song_name": "\u5e78\u798f\u592a\u77ed - \u96fb\u8996\u5287\u300c\u5947\u5999\u7684\u6642\u5149\u4e4b\u65c5\u300d\u7247\u5c3e\u66f2",
+      "artist": "A-Lin"
+    },
+    {
+      "song_name": "\u9ec3\u660f",
+      "artist": "Steve Chou"
+    },
+    {
+      "song_name": "\u653e\u4e0d\u4e0b\u7684\u6d3b\u8457",
+      "artist": "The Freshman"
+    },
+    {
+      "song_name": "\u8a18\u5f97",
+      "artist": "A-Mei Chang, Jerry Lin"
+    },
+    {
+      "song_name": "\u66d6\u6627",
+      "artist": "Rainie Yang"
+    },
+    {
+      "song_name": "\u771f\u7684\u50bb (\u96fb\u5f71\u300a\u4e00\u543b\u5b9a\u60c5\u300b\u8ffd\u611b\u7248\u4e3b\u984c\u66f2)",
+      "artist": "LaLa Hsu"
+    },
+    {
+      "song_name": "\u6d77\u95ca\u5929\u7a7a",
+      "artist": "Beyond"
+    },
+    {
+      "song_name": "\u7591\u5fc3\u75c5",
+      "artist": "Ren Ran"
+    },
+    {
+      "song_name": "\u8b1d\u8b1d\u59b3\u611b\u6211",
+      "artist": "R-chord"
+    },
+    {
+      "song_name": "\u6708\u7259\u7063",
+      "artist": "F.I.R."
+    },
+    {
+      "song_name": "\u7368\u5bb6\u8a18\u61b6",
+      "artist": "Jordan Chan"
+    },
+    {
+      "song_name": "\u597d\u53ef\u60dc",
+      "artist": "Ada Zhuang"
+    },
+    {
+      "song_name": "BingBian \u75c5\u53d8",
+      "artist": "Shiyu"
+    },
+    {
+      "song_name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
+      "artist": "Rachel Liang"
+    },
+    {
+      "song_name": "\u9b54\u9b3c\u4e2d\u7684\u5929\u4f7f",
+      "artist": "Hebe Tien"
+    },
+    {
+      "song_name": "\u6211\u5011\u90fd\u50bb",
+      "artist": "Rainie Yang"
+    },
+    {
+      "song_name": "\u932f\u7684\u4eba",
+      "artist": "Elva Hsiao"
+    },
+    {
+      "song_name": "\u9b5a\u4ed4 - \u96fb\u8996\u5287<\u82b1\u7532\u7537\u5b69\u8f49\u5927\u4eba>\u4e3b\u984c\u66f2",
+      "artist": "Crowd Lu"
+    },
+    {
+      "song_name": "\u4f60\u8981\u7684\u611b",
+      "artist": "Penny Tai"
+    }
+  ]
+}

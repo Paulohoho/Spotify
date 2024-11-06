@@ -40,5 +40,41 @@ with open('guilty_pleasures_playlists.json', 'w') as f:
     json.dump(playlists, f)
 
 
+all_playlist_songs = {}
+
+for playlist in playlists['playlists']['items']:
+    playlist_id = playlist['id']
+    playlist_name = playlist['name']
+    print(f"Fetching songs from playlist: {playlist_name}")
+
+    # Fetch tracks for each playlist
+    tracks_url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
+    tracks_response = requests.get(tracks_url, headers=headers)
+    tracks_data = tracks_response.json()
+
+    # Store song details in a list
+    songs = []
+    for item in tracks_data['items']:
+        track = item['track']
+        if track:  # Check if track info is available
+            song_name = track['name']
+            artist_name = ', '.join([artist['name'] for artist in track['artists']])
+            songs.append({'song_name': song_name, 'artist': artist_name})
+
+    # Store in dictionary with playlist name as key
+    all_playlist_songs[playlist_name] = songs
+
+# Store in dictionary with playlist name as key
+    all_playlist_songs[playlist_name] = songs
+
+# Optional: Save to JSON file
+with open('guilty_pleasures_songs.json', 'w') as f:
+    json.dump(all_playlist_songs, f, indent=2)
+
+# Display the songs in each playlist
+for playlist_name, songs in all_playlist_songs.items():
+    print(f"\nPlaylist: {playlist_name}")
+    for song in songs:
+        print(f"- {song['song_name']} by {song['artist']}")
 
 
