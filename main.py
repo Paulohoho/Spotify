@@ -1,8 +1,8 @@
 import requests
 import json
 
-client_id = 
-client_secret = 
+client_id = '80f0cb2bb9a04256bb11a2cfee9fff29'
+client_secret = 'e5cd502777674ba1821af67cfe2117b6'
 
 
 auth_url = 'https://accounts.spotify.com/api/token'
@@ -28,7 +28,7 @@ params = {
 response = requests.get(search_url, headers=headers, params=params)
 playlists = response.json()
 
-# Step 4: Get all songs from each playlist
+
 all_playlist_songs = {}
 
 for playlist in playlists['playlists']['items']:
@@ -36,28 +36,28 @@ for playlist in playlists['playlists']['items']:
     playlist_name = playlist['name']
     print(f"Fetching songs from playlist: {playlist_name}")
 
-    # Fetch tracks for each playlist
+
     tracks_url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
     tracks_response = requests.get(tracks_url, headers=headers)
     tracks_data = tracks_response.json()
 
-    # Store song details in a list
+
     songs = []
     for item in tracks_data['items']:
         track = item['track']
-        if track:  # Check if track info is available
+        if track:
             song_name = track['name']
             artist_name = ', '.join([artist['name'] for artist in track['artists']])
             songs.append({'song_name': song_name, 'artist': artist_name})
 
-    # Store in dictionary with playlist name as key
+
     all_playlist_songs[playlist_name] = songs
 
-# Optional: Save to JSON file
+
 with open('guilty_pleasures_songs.json', 'w') as f:
     json.dump(all_playlist_songs, f, indent=2)
 
-# Display the songs in each playlist
+
 for playlist_name, songs in all_playlist_songs.items():
     print(f"\nPlaylist: {playlist_name}")
     for song in songs:
